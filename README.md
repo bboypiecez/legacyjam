@@ -82,5 +82,5 @@ a test submission through each form and confirm the activation email lands
 - **Funders** — Toronto Arts Council
 - **Academic partner** — Sheridan College
 - **Media partners** — Bboy Network, Outbreak Europe / The Legits
-- **Generations Partners** — schools/crews that register students for the Generations Battle
+- **Generations Partners** — schools/crews that register students for the Generations Battle; confirmed for 2026: Now or Never Crew
 - **MEC Crew** — produces Legacy Jam; organizing team is Piecez (Michael Prosserman), Boobjester (Roberto Veruela Jr.), B Bad (Andel James), Switch B (Adrian Bernard), and MEDÊIO (Rei Misiri)

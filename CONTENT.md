@@ -237,6 +237,13 @@ FormSubmit to info@legacyjam.com (organization name, contact info, entering
 the Generations Battle?, number of attendees, interested in optional
 benefits?).
 
+Confirmed Generations Partner logo, shown in its own `.logo-row` right below
+the CTA button: Now or Never Crew (links to
+https://www.instagram.com/nowornevercrew/). A second `.logo-row` right below
+that stays `hidden` until the older, unconfirmed partners (BRKN Québec, The
+Flava Factory, ABA, The Spot Arts Community, Breaking Canada, Tuff)
+reconfirm for 2026.
+
 ## 7. Voice & style rules
 
 - Simple words, short sentences. An excited 14-year-old and their parent should both get it.
