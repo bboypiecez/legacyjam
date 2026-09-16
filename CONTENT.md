@@ -142,7 +142,7 @@ prelims (2 circles) → 3:30 Exhibitions 1 & 2 → 4:00 Generations top 16 (1 rd
 5:45 Pro & Youth top 4 (3 rds) → 6:15 Generations top 4 (2 rds) → 6:30 Pro & Youth finals
 (5 rds) → 6:45 OG Cypher (20 min) → 7:00 Generations final (2 rds) → 7:30 awards
 
-**Children's Hip Hop Zone** — 1:00–6:00 PM, basement, 918 Bathurst St, ages 3–12.
+**Children's Hip Hop Zone** — 1:00–6:00 PM, basement, 918 Bathurst St, ages 5–11.
 Beginner moves, breaker-name & art name tag making, art stations, a hip hop
 scavenger hunt & a mini kids' cypher. Parents must accompany their children at
 all times.
