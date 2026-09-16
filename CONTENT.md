@@ -237,8 +237,10 @@ FormSubmit to info@legacyjam.com (organization name, contact info, entering
 the Generations Battle?, number of attendees, interested in optional
 benefits?).
 
-Confirmed Generations Partner logo, shown in its own `.logo-row` right below
-the CTA button: Now or Never Crew (links to
+Confirmed Generations Partner logo, labelled with a small "Generations
+Partners" title (`.partner-group`, matching the Funders/Academic
+Partner/Media partners labels in the Partners & Funders section) right above
+its own `.logo-row` below the CTA button: Now or Never Crew (links to
 https://www.instagram.com/nowornevercrew/). A second `.logo-row` right below
 that stays `hidden` until the older, unconfirmed partners (BRKN Québec, The
 Flava Factory, ABA, The Spot Arts Community, Breaking Canada, Tuff)
