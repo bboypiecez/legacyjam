@@ -63,18 +63,19 @@ a test submission through each form and confirm the activation email lands
 - [ ] Check if **Mad Track** is still available Oct 24
 - [ ] Look into Exchanges opponents — **Stripes? Luigi?**
 - [ ] Confirm airport shuttle logistics for Generations Partners (now the only guests offered a pre-booked shuttle) + who monitors the info@legacyjam.com inbox
-- [ ] Confirm Eventbrite ticket tiers match: $20 competitors / $25 audience / $5 kids under 10 / $25 each workshop (or $50 for 3) / $70 full festival pass
+- [ ] Confirm Eventbrite ticket tiers match: $20 competitors / $25 audience / $5 kids under 10 / $20 each workshop (or $30 for 2) / $70 full festival pass
 - [ ] **Activate FormSubmit for info@legacyjam.com** — click the one-time confirmation link (see note above) or submissions will keep going nowhere
 - [x] Set up the Generations Partner sign-up form (school registration, promo code, VIP meet & greet) — later replaced with a mailto: link, see note above
 
 ## Confirmed details baked into the site
 
 - **Oct 23 (Fri)** — Welcome Jam, Collective, 389 Spadina Ave, Toronto, 5–10 PM,
-  free / no tickets needed — cyphers, graffiti workshop, music & good vibes
+  free / no registration required (just show up) — cyphers, graffiti workshop,
+  music & good vibes; kids under 14 must be accompanied by a guardian
 - **Oct 24 (Sat)** — Battle Day, 918 Bathurst St, Toronto (not wheelchair accessible),
   12–7:30 PM; Legacy Party after (DJ Mensa × Cypher Playground confirmed —
   public site copy keeps this to a general "one night to remember" line, doesn't name the DJ/duo)
-- **Oct 25 (Sun)** — Workshops & Panels, Unity Studio, 1560 Yonge St Suite 204, Toronto (wheelchair accessible) — cyphers, 2 panel discussions (mentorship; breaking & parallel careers), 3 workshops
+- **Oct 25 (Sun)** — Workshops & Panels, Unity Studio, 1560 Yonge St Suite 204, Toronto (wheelchair accessible) — cyphers, 2 panel discussions (mentorship; breaking & parallel careers), 2 workshops
 - **Battles** — Generations (2v2 teacher×student, 10-yr age gap), Youth Cypher (Under 19), Pro Cypher (19+); Legacy Exchanges (Canada vs. international) is a showcase, not a competitive battle — lives in "The Festival" copy
 - **Prizes** — Youth + Pro winners: flight & entry to Outbreak Europe 2027
 - **Judges** — Ronnie (Full Force), Logistx (Red Bull BC One All Star), MGability
