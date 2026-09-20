@@ -75,11 +75,11 @@ Eventbrite for everything (except Workshops, see below).
 | Audience | $25, door price | Battle Day entry for spectators |
 | Kids (under 10) | $5, door price | Battle Day entry for kids under 10 |
 | Workshops | $20 each | Separate ticket. Book 1–2, or 2 for $30 |
-| **Full Festival Pass** | **$70** | both workshops + all events (Battle Day, Legacy Party & Sunday's panels) |
+| **Full Festival Pass** | **$40** | both workshops + Battle Day (also includes Legacy Party & Sunday's panels) |
 
 Site copy spells out the Full Pass contents in the ticket row itself ("both
-workshops + all events") and again in full below the list: "Full Festival
-Pass includes both workshops plus entry to every event — Battle Day, the Legacy
+workshops + Battle Day") and again in full below the list: "Full Festival
+Pass includes both workshops and a ticket to Battle Day — plus the Legacy
 Party and Sunday's panels."
 
 **Workshops are on a separate Eventbrite page from the main Festival
