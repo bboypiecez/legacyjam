@@ -244,10 +244,10 @@ Confirmed Generations Partner logo, labelled with a small "Generations
 Partners" title (`.partner-group`, matching the Funders/Academic
 Partner/Media partners labels in the Partners & Funders section) right above
 its own `.logo-row` below the CTA button: Now or Never Crew (links to
-https://www.instagram.com/nowornevercrew/) and 519 School of Hip Hop (logo
+https://www.instagram.com/nowornevercrew/), 519 School of Hip Hop (logo
 recoloured from its original white/light-grey outline art to dark navy, so
-it reads against the white `.logo-row` card background). A second
-`.logo-row` right below
+it reads against the white `.logo-row` card background), and The Heart (no
+link provided). A second `.logo-row` right below
 that stays `hidden` until the older, unconfirmed partners (BRKN Québec, The
 Flava Factory, ABA, The Spot Arts Community, Breaking Canada, Tuff)
 reconfirm for 2026.
