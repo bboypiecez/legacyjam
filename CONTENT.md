@@ -89,10 +89,11 @@ Below the main ticket list/button, a dedicated "Sunday Workshops" callout
 ticket" badge, a short two-sentence explainer ("Sunday starts free: cyphers
 & 2 panels, 10 AM–1:30 PM. Workshops need their own ticket, unless you have
 the Full Festival Pass."), the venue (Unity Studio, 1560 Yonge St Suite 204,
-Toronto, wheelchair accessible), the two workshop time slots (1:30–3:00,
-3:00–4:30 PM, each 1.5 hr), the $20-each/$30-for-2 price, and its own "Get
-Workshop Tickets" button linking to the separate workshops Eventbrite page
-(placeholder URL until that page exists, see README checklist).
+Toronto, wheelchair accessible), the two workshop time slots (1:30–3:00 —
+Ronnie, 3:00–4:30 PM — Puzzles, each 1.5 hr), the $20-each/$30-for-2 price,
+and its own "Get Workshop Tickets" button linking to the separate workshops
+Eventbrite page (placeholder URL until that page exists, see README
+checklist).
 
 ## 4. Reusable prompts
 
@@ -164,8 +165,11 @@ Discussion: Breaking careers & parallel careers ("Building a career in and beyon
 breaking.") → 1:00–1:30 more cyphers (community). Both panels are a full hour each and
 list "Panelists to be announced soon." until confirmed; cyphers bookend the panels at the
 start and end of the free block.
-Paid workshops, 1:30–4:30 PM: 1:30–3:00 Workshop 1 → 3:00–4:30 Workshop 2. Each workshop
-is 1.5 hr. $20 each workshop, or 2 for $30.
+Paid workshops, 1:30–4:30 PM: 1:30–3:00 Workshop 1, taught by Ronnie (Full Force, SuperCr3w,
+7 Commandoz, SuperWockeez, District Arts) → 3:00–4:30 Workshop 2, taught by Puzzles
+(Supernaturalz, Nooma Space Academy). Each workshop is 1.5 hr, with instructor credit
+shown as a `.sched-desc` sub-line under each slot (matching the panel sub-line pattern).
+$20 each workshop, or 2 for $30.
 
 *Cyphers and both panels are free and open to everyone; only the 2 workshops require a
 ticket. Site copy calls out "(free)" next to each Sunday-morning schedule item and adds a
