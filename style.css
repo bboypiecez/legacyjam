@@ -551,6 +551,8 @@ section[id] { scroll-margin-top: 4.5rem; }
   letter-spacing: 0.04em;
 }
 .sched-logo-row { margin: 0.7rem 0 0; }
+.logo-row.sched-logo-row li { min-height: 2.6rem; min-width: 5rem; padding: 0.35rem 0.6rem; }
+.logo-row.sched-logo-row img { max-width: 90px; max-height: 1.8rem; }
 
 /* ---------- travel ---------- */
 .travel-cols {
