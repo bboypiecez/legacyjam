@@ -82,25 +82,21 @@ workshops + Battle Day") and again in full below the list: "Full Festival
 Pass includes both workshops and a ticket to Battle Day — plus the Legacy
 Party and Sunday's panels."
 
-**Workshops are on a separate Eventbrite page from the main Festival
-ticket** — only the Full Festival Pass includes them on the main ticket.
-Below the main ticket list/button, a dedicated "Sunday Workshops" callout
-(`.workshop-callout`) makes this explicit: its own heading with a "Separate
-ticket" badge, a short explainer ("Sunday starts free: cyphers & 2 panels,
-10 AM–1:30 PM. Workshops need their own ticket, unless you have the Full
-Festival Pass."), and the venue (Unity Studio, 1560 Yonge St Suite 204,
-Toronto, wheelchair accessible).
-
-Below the venue line, the callout now also lists the two free panel
-discussions (11 AM–12 PM Panel: Mentorship, 12–1 PM Panel: Breaking careers
-& parallel careers) with a "Register for Panels (Free)" button, linking to
-`https://legacyworkshopsandpanel.eventbrite.ca`.
-
-Then the two workshop time slots (1:30–3:00 PM Workshop 1: Creativity —
-Ronnie, 3:00–4:30 PM Workshop 2: From Foundation to Style — Puzzles, each
-1.5 hr), the $20-each/$30-for-2 price, and its own "Get Workshop Tickets"
-button, also linking to `https://legacyworkshopsandpanel.eventbrite.ca`
-(the same Eventbrite page covers both workshops and panel registration).
+**Workshops and panels are on a separate Eventbrite page from the main
+Festival ticket** — only the Full Festival Pass includes Battle Day on the
+main ticket. Below the main ticket list/button, a compact "Sunday: Panels &
+Workshops" callout (`.workshop-callout`) covers both in one minimal box: a
+plain heading (no badge), the venue (Unity Studio, 1560 Yonge St Suite 204,
+Toronto, wheelchair accessible), a single four-line list of all four slots
+(11 AM–12 PM Panel: Mentorship (free), 12–1 PM Panel: Breaking careers
+(free), 1:30–3:00 PM Workshop 1: Creativity (Ronnie), 3:00–4:30 PM Workshop
+2: Foundation to Style (Puzzles)), one price line ("Panels free · Workshops
+$20 each, or 2 for $30"), and a single "Register & Get Tickets" button
+linking to `https://legacyworkshopsandpanel.eventbrite.ca` (the same
+Eventbrite page covers both, so one button replaces the previous two).
+Deliberately terse — this box had grown text-heavy with duplicated copy and
+two near-identical buttons, so it was trimmed to the minimum needed to
+register or buy.
 
 ## 4. Reusable prompts
 
