@@ -93,14 +93,14 @@ Toronto, wheelchair accessible).
 
 Below the venue line, the callout now also lists the two free panel
 discussions (11 AM–12 PM Panel: Mentorship, 12–1 PM Panel: Breaking careers
-& parallel careers) with a "Register for Panels (Free)" button (placeholder
-Eventbrite URL until a free registration page exists, see README checklist).
+& parallel careers) with a "Register for Panels (Free)" button, linking to
+`https://legacyworkshopsandpanel.eventbrite.ca`.
 
 Then the two workshop time slots (1:30–3:00 PM Workshop 1: Creativity —
 Ronnie, 3:00–4:30 PM Workshop 2: From Foundation to Style — Puzzles, each
 1.5 hr), the $20-each/$30-for-2 price, and its own "Get Workshop Tickets"
-button linking to the separate workshops Eventbrite page (placeholder URL
-until that page exists, see README checklist).
+button, also linking to `https://legacyworkshopsandpanel.eventbrite.ca`
+(the same Eventbrite page covers both workshops and panel registration).
 
 ## 4. Reusable prompts
 
