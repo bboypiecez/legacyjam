@@ -67,7 +67,15 @@ hero, tickets section, schedule section, closing CTA).*
 
 Site shows these as a single compact list (`.ticket-list`), not individual
 cards with their own buttons, one "Get Tickets" button at the bottom links to
-Eventbrite for everything (except Workshops, see below).
+Eventbrite for everything (except Workshops, see below). The list is split
+into three labelled groups (`.ticket-group-label`, small uppercase gold
+dividers) so it's clear which rows a given day's tickets cover: "Sat ·
+Battle Day" (Competitors, Audience, Kids), "Sun · Workshops" (Workshops),
+and "Sat + Sun · Full Weekend" (Full Festival Pass, whose day tag reads
+"All" instead of a single day). A one-line caption under the "Get Tickets"
+button spells out exactly what it covers: "For Battle Day (Sat) tickets and
+the Full Festival Pass. Sunday-only workshop tickets and free panel
+registration are below ↓" — pointing at the separate workshop-callout box.
 
 | Package | Price | Includes |
 |---|---|---|
@@ -97,7 +105,10 @@ linking to `https://legacyworkshopsandpanel.eventbrite.ca` (the same
 Eventbrite page covers both, so one button replaces the previous two).
 Deliberately terse — this box had grown text-heavy with duplicated copy and
 two near-identical buttons, so it was trimmed to the minimum needed to
-register or buy.
+register or buy. Below the button, a short clarifying line: "Sunday only.
+Already have the Full Festival Pass? You're covered — no need to buy again
+here." — added alongside the `.ticket-list` group labels/caption above to
+make it unambiguous which of the two boxes' buttons a visitor needs.
 
 ## 4. Reusable prompts
 
