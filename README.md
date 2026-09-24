@@ -69,9 +69,10 @@ a test submission through each form and confirm the activation email lands
 
 ## Confirmed details baked into the site
 
-- **Oct 23 (Fri)** — Welcome Jam, Collective, 389 Spadina Ave, Toronto, 5–10 PM,
-  free / no registration required (just show up) — cyphers, graffiti workshop,
-  music & good vibes; kids under 14 must be accompanied by a guardian
+- **Oct 23 (Fri)** — Welcome Jam, Collective, 389 Spadina Ave, Toronto, 4–10 PM,
+  free / no registration required (just show up), family & youth friendly —
+  Welcome Jam (cyphers, music & good vibes) and Graffiti Workshops (open &
+  youth sessions); kids under 14 must be accompanied by a guardian
 - **Oct 24 (Sat)** — Battle Day, 918 Bathurst St, Toronto (not wheelchair accessible),
   12–7:30 PM; Legacy Party after (DJ Mensa × Cypher Playground confirmed —
   public site copy keeps this to a general "one night to remember" line, doesn't name the DJ/duo)

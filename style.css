@@ -546,6 +546,11 @@ section[id] { scroll-margin-top: 4.5rem; }
   display: block; margin: 0.2rem 0 0 4.7rem;
   color: var(--cream-dim); font-size: 0.85rem;
 }
+.event-tag {
+  color: var(--gold-bright); font-weight: 800; text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.sched-logo-row { margin: 0.7rem 0 0; }
 
 /* ---------- travel ---------- */
 .travel-cols {

@@ -134,12 +134,17 @@ Site displays a "⏱️ Battles run on time — don't be late!" callout right un
 Schedule heading, above the day grid, followed by a short "Times may change —
 check back for updates" hint.
 
-**Fri Oct 23 — Welcome Jam** · Collective, 389 Spadina Ave, Toronto · 5–10 PM
-Free, no registration required — just show up. Kids under 14 must be
-accompanied by a guardian at all times (site copy states both of these right
-at the top of the Friday card, above the schedule list). Cyphers, graffiti
-workshop, music and good vibes. No competitive battles, just a low-key
-kickoff to meet people before Battle Day.
+**Fri Oct 23 — Welcome Jam** · Collective, 389 Spadina Ave, Toronto · 4–10 PM
+Free, no registration required — just show up. Family & youth friendly. Kids
+under 14 must be accompanied by a guardian at all times (site copy states
+both of these right at the top of the Friday card, above the schedule list).
+Two schedule lines, both 4–10 PM, each led with a pronounced uppercase
+`.event-tag` label matching the visual weight of the day's `.day-label`:
+**Welcome Jam** (cyphers, music & good vibes) and **Graffiti Workshops**
+(open & youth sessions). No competitive battles, just a low-key kickoff to
+meet people before Battle Day. The Collective logo (`.logo-row`, same asset
+used under Program partners) appears at the bottom of the card since
+Collective is the venue.
 
 **Sat Oct 24 — Battle Day** · 918 Bathurst St (not wheelchair accessible) · 12–7:30 PM
 12:00 arrive/register/cyphers → 1:00 Generations prelims (1 rd) → 2:30 Pro & Youth cypher
@@ -173,6 +178,8 @@ SuperCr3w, 7 Commandoz, SuperWockeez, District Arts) → 3:00–4:30 Workshop 2:
 to Style, taught by Puzzles (Supernaturalz, Nooma Space Academy). Each workshop is 1.5 hr,
 with the theme in the slot title and instructor credit shown as a `.sched-desc` sub-line
 underneath (matching the panel sub-line pattern). $20 each workshop, or 2 for $30.
+The Unity Charity logo (`.logo-row`, linked to unitycharity.com, same asset used under
+Program partners) appears at the bottom of the card since Unity Studio is the venue.
 
 *Cyphers and both panels are free and open to everyone; only the 2 workshops require a
 ticket. Site copy calls out "(free)" next to each Sunday-morning schedule item and adds a
