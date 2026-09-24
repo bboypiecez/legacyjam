@@ -86,14 +86,21 @@ Party and Sunday's panels."
 ticket** — only the Full Festival Pass includes them on the main ticket.
 Below the main ticket list/button, a dedicated "Sunday Workshops" callout
 (`.workshop-callout`) makes this explicit: its own heading with a "Separate
-ticket" badge, a short two-sentence explainer ("Sunday starts free: cyphers
-& 2 panels, 10 AM–1:30 PM. Workshops need their own ticket, unless you have
-the Full Festival Pass."), the venue (Unity Studio, 1560 Yonge St Suite 204,
-Toronto, wheelchair accessible), the two workshop time slots (1:30–3:00 PM
-Workshop 1: Creativity — Ronnie, 3:00–4:30 PM Workshop 2: From Foundation to
-Style — Puzzles, each 1.5 hr), the $20-each/$30-for-2 price, and its own
-"Get Workshop Tickets" button linking to the separate workshops Eventbrite
-page (placeholder URL until that page exists, see README checklist).
+ticket" badge, a short explainer ("Sunday starts free: cyphers & 2 panels,
+10 AM–1:30 PM. Workshops need their own ticket, unless you have the Full
+Festival Pass."), and the venue (Unity Studio, 1560 Yonge St Suite 204,
+Toronto, wheelchair accessible).
+
+Below the venue line, the callout now also lists the two free panel
+discussions (11 AM–12 PM Panel: Mentorship, 12–1 PM Panel: Breaking careers
+& parallel careers) with a "Register for Panels (Free)" button (placeholder
+Eventbrite URL until a free registration page exists, see README checklist).
+
+Then the two workshop time slots (1:30–3:00 PM Workshop 1: Creativity —
+Ronnie, 3:00–4:30 PM Workshop 2: From Foundation to Style — Puzzles, each
+1.5 hr), the $20-each/$30-for-2 price, and its own "Get Workshop Tickets"
+button linking to the separate workshops Eventbrite page (placeholder URL
+until that page exists, see README checklist).
 
 ## 4. Reusable prompts
 
