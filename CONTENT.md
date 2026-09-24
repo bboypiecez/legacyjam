@@ -77,10 +77,11 @@ Eventbrite for everything (except Workshops, see below).
 | Workshops | $20 each | Separate ticket. Book 1–2, or 2 for $30 |
 | **Full Festival Pass** | **$40** | both workshops + Battle Day (also includes Legacy Party & Sunday's panels) |
 
-Site copy spells out the Full Pass contents in the ticket row itself ("both
-workshops + Battle Day") and again in full below the list: "Full Festival
-Pass includes both workshops and a ticket to Battle Day — plus the Legacy
-Party and Sunday's panels."
+Site copy spells out the Full Pass contents in the ticket row itself only
+("both workshops + Battle Day" hint) — the longer explanatory paragraph
+that used to repeat this below the ticket list was removed as redundant
+(Kids-under-10 pricing, the free Sunday panels, and the separate-workshop-
+ticket note are all already stated elsewhere on the page).
 
 **Workshops and panels are on a separate Eventbrite page from the main
 Festival ticket** — only the Full Festival Pass includes Battle Day on the
