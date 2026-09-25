@@ -159,8 +159,8 @@ used under Program partners) appears at the bottom of the card since
 Collective is the venue.
 
 **Sat Oct 24 — Battle Day** · 918 Bathurst St (not wheelchair accessible) · 12–7:30 PM
-12:00 arrive/register/cyphers → 1:00 Generations prelims (1 rd) → 2:30 Pro & Youth cypher
-prelims (2 circles) → 3:30 Exhibitions 1 & 2 → 4:00 Generations top 16 (1 rd)
+12:00 arrive/register/cyphers → 1:00 Pro & Youth cypher prelims (2 circles, 1 hr) → 2:00
+Generations prelims (1 rd, 1.5 hr) → 3:30 Exhibitions 1 & 2 → 4:00 Generations top 16 (1 rd)
 → 4:30 Pro & Youth top 8 (2 rds) → 5:00 Generations top 8 (1 rd) → 5:30 Exhibition 3 →
 5:45 Pro & Youth top 4 (3 rds) → 6:15 Generations top 4 (2 rds) → 6:30 Pro & Youth finals
 (5 rds) → 6:45 OG Cypher (20 min) → 7:00 Generations final (2 rds) → 7:30 awards
