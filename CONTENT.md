@@ -95,8 +95,11 @@ ticket note are all already stated elsewhere on the page).
 Festival ticket** — only the Full Festival Pass includes Battle Day on the
 main ticket. Below the main ticket list/button, a compact "Sunday: Panels &
 Workshops" callout (`.workshop-callout`) covers both in one minimal box: a
-plain heading (no badge), the venue (Unity Studio, 1560 Yonge St Suite 204,
-Toronto, wheelchair accessible), a single four-line list of all four slots
+plain heading (no badge), a background-removed cutout photo of each
+instructor (`.instructor-duo`, Ronnie and Puzzles, standing side by side
+with their name and which workshop they teach), the venue (Unity Studio,
+1560 Yonge St Suite 204, Toronto, wheelchair accessible), a single
+four-line list of all four slots
 (11 AM–12 PM Panel: Mentorship (free), 12–1 PM Panel: Breaking careers
 (free), 1:30–3:00 PM Workshop 1: Creativity (Ronnie), 3:00–4:30 PM Workshop
 2: Foundation to Style (Puzzles)), one price line ("Panels free · Workshops

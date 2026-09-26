@@ -380,6 +380,17 @@ section[id] { scroll-margin-top: 4.5rem; }
   display: flex; align-items: center; justify-content: center; flex-wrap: wrap;
   gap: 0.5rem; color: var(--gold); font-size: 1.1rem; margin: 0 0 0.5rem;
 }
+.instructor-duo {
+  list-style: none; margin: 0.75rem 0; padding: 0;
+  display: flex; align-items: flex-end; justify-content: center; gap: 1.5rem;
+}
+.instructor-duo li { display: flex; flex-direction: column; align-items: center; gap: 0.3rem; }
+.instructor-duo img {
+  display: block; height: 8rem; width: auto;
+  filter: drop-shadow(0 6px 14px rgba(0,0,0,0.45));
+}
+.instructor-duo span { font-size: 0.8rem; font-weight: 700; color: var(--cream); }
+.instructor-duo span .hint { display: block; font-weight: 500; }
 .workshop-slots {
   list-style: none; margin: 0.9rem auto 0; padding: 0;
   display: grid; gap: 0.45rem; max-width: 24rem; text-align: left;
