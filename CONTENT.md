@@ -65,6 +65,13 @@ yours on Eventbrite now and claim your battle spot."), and now also as a small
 "Early Bird" badge directly on every "Get Tickets" button site-wide (header,
 hero, tickets section, schedule section, closing CTA).*
 
+The closing CTA band (`.cta-final`, bottom of the site, "Lock In Your Spot")
+now groups its buttons under two small uppercase `.cta-group-label` dividers
+so it's clear which day each covers: "Sat · Battle Day" over "Register to
+Battle" and "Get Tickets", and "Sun · Workshops & Panels" over a new "Get
+Workshop Tickets" button linking to
+`https://legacyworkshopsandpanel.eventbrite.ca`.
+
 Site shows these as a single compact list (`.ticket-list`), not individual
 cards with their own buttons, one "Get Tickets" button at the bottom links to
 Eventbrite for everything (except Workshops, see below). The list is split

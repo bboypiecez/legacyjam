@@ -840,4 +840,8 @@ fieldset.field .field:last-child { margin-bottom: 0; }
 /* ---------- final call-to-action band ---------- */
 .cta-final { text-align: center; }
 .cta-final .section-lede { margin-left: auto; margin-right: auto; }
-.cta-final .cta-row { justify-content: center; margin-top: 1.5rem; }
+.cta-final .cta-row { justify-content: center; margin-top: 0.75rem; }
+.cta-group-label {
+  margin: 1.75rem 0 0; font-size: 0.78rem; font-weight: 800;
+  text-transform: uppercase; letter-spacing: 0.1em; color: var(--gold-bright);
+}
