@@ -106,11 +106,12 @@ plain heading (no badge), a background-removed cutout photo of each
 instructor (`.instructor-duo`, Ronnie and Puzzles, standing side by side
 with their name and which workshop they teach), the venue (Unity Studio,
 1560 Yonge St Suite 204, Toronto, wheelchair accessible), a single
-four-line list of all four slots
-(11 AM–12 PM Panel: Mentorship (free), 12–1 PM Panel: Breaking careers
-(free), 1:30–3:00 PM Workshop 1: Creativity (Ronnie), 3:00–4:30 PM Workshop
-2: Foundation to Style (Puzzles)), one price line ("Panels free · Workshops
-$20 each, or 2 for $30"), and a single "Register & Get Tickets" button
+five-line list of all five slots
+(10–11 AM Doors, cyphers & networking (free), 11 AM–12 PM Panel: Mentorship
+(free), 12–1 PM Panel: Breaking careers (free), 1:30–3:00 PM Workshop 1:
+Creativity (Ronnie), 3:00–4:30 PM Workshop 2: Foundation to Style
+(Puzzles)), one price line ("Panels free · Workshops $20 each, or 2 for
+$30"), and a single "Register & Get Tickets" button
 linking to `https://legacyworkshopsandpanel.eventbrite.ca` (the same
 Eventbrite page covers both, so one button replaces the previous two).
 Deliberately terse — this box had grown text-heavy with duplicated copy and
