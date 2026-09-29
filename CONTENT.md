@@ -187,8 +187,8 @@ exhibitions in an earlier draft): Riko vs Konatsu, and an East vs West Coast You
 **Sun Oct 25 — Workshops & Panels** · Unity Studio, 1560 Yonge St Suite 204 (wheelchair accessible) · 10 AM–4:30 PM
 Free block, 10 AM–1:30 PM: 10:00–11:00 cyphers (community) → 11:00–12:15 Panel Discussion:
 Mentorship ("Why mentorship matters to breaking's next generation. With Lazylegz.") →
-12:15–1:30 Panel Discussion: Breaking careers & parallel careers ("Building a career in and
-beyond breaking. With Phil Wizard."). Both panels are 1.25 hr each; cyphers open the free
+12:15–1:30 Panel Discussion: Breaking careers & parallel careers ("Alternate paths in breaking,
+and skills that build any career. With Phil Wizard."). Both panels are 1.25 hr each; cyphers open the free
 block, then run straight into the panels with no bridging gap, ending right as the paid
 workshops start at 1:30.
 Paid workshops, 1:30–4:30 PM: 1:30–3:00 Workshop 1: Creativity, taught by Ronnie (Full Force,
