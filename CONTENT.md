@@ -107,8 +107,8 @@ instructor (`.instructor-duo`, Ronnie and Puzzles, standing side by side
 with their name and which workshop they teach), the venue (Unity Studio,
 1560 Yonge St Suite 204, Toronto, wheelchair accessible), a single
 five-line list of all five slots
-(10–11 AM Doors, cyphers & networking (free), 11 AM–12 PM Panel: Mentorship
-(free), 12–1 PM Panel: Breaking careers (free), 1:30–3:00 PM Workshop 1:
+(10–11 AM Doors, cyphers & networking (free), 11–11:30 AM Panel: Mentorship
+(free), 11:30 AM–1 PM Panel: Breaking careers (free), 1:30–3:00 PM Workshop 1:
 Creativity (Ronnie), 3:00–4:30 PM Workshop 2: Foundation to Style
 (Puzzles)), one price line ("Panels free · Workshops $20 each, or 2 for
 $30"), and a single "Register & Get Tickets" button
@@ -190,10 +190,10 @@ final closes the day at peak energy; Exchanges are spread out as palate-cleanser
 tournament rounds.*
 
 **Sun Oct 25 — Workshops & Panels** · Unity Studio, 1560 Yonge St Suite 204 (wheelchair accessible) · 10 AM–4:30 PM
-Free block, 10 AM–1:30 PM: 10:00–11:00 cyphers (community) → 11:00–12:00 Panel Discussion:
-Mentorship ("Why mentorship matters to breaking's next generation.") → 12:00–1:00 Panel
+Free block, 10 AM–1:30 PM: 10:00–11:00 cyphers (community) → 11:00–11:30 Panel Discussion:
+Mentorship ("Why mentorship matters to breaking's next generation.") → 11:30–1:00 Panel
 Discussion: Breaking careers & parallel careers ("Building a career in and beyond
-breaking.") → 1:00–1:30 more cyphers (community). Both panels are a full hour each and
+breaking.") → 1:00–1:30 more cyphers (community). Panel 1 is 30 min, Panel 2 is 1.5 hr; both
 list "Panelists to be announced soon." until confirmed; cyphers bookend the panels at the
 start and end of the free block.
 Paid workshops, 1:30–4:30 PM: 1:30–3:00 Workshop 1: Creativity, taught by Ronnie (Full Force,
