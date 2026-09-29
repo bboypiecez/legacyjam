@@ -268,7 +268,7 @@ accuracy, condensed to 3–4 sentences each:**
 exhibitions) are on file; the above is condensed to match the site's existing length.*
 
 **Volunteer CTA:** "Apply to volunteer for Legacy Jam" — lives in its own
-"Volunteer With Us" section right after "Why Legacy Jam," next to the media
+"Volunteer With Us" section right after the Schedule, next to the media
 pass request button. Links to `volunteer.html`, a built-in application form
 that submits via FormSubmit to info@legacyjam.com (name, email, 19+, do you
 drive, car access for the weekend, which volunteer roles — drivers,
