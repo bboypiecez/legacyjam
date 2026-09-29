@@ -194,11 +194,11 @@ exhibitions in an earlier draft): Riko vs Konatsu, and an East vs West Coast You
 
 **Sun Oct 25 — Workshops & Panels** · Unity Studio, 1560 Yonge St Suite 204 (wheelchair accessible) · 10 AM–4:30 PM
 Free block, 10 AM–1:30 PM: 10:00–11:00 cyphers (community) → 11:00–12:15 Panel Discussion:
-Mentorship ("Lazylegz (Luca Patuelli) and guests on the mentors who shaped Canadian
-breaking — and how the next generation finds theirs. More panelists to be confirmed
+Mentorship ("Lazylegz (Luca Patuelli) and guests on why mentorship keeps breaking alive —
+and what it takes to be a great mentor in this community. More panelists to be confirmed
 soon.") → 12:15–1:30 Panel Discussion: Building career pathways for Breaking in Canada
-("Phil Wizard and guests on turning breaking into a career in Canada. More panelists to
-be confirmed soon."). Both panels are 1.25 hr each; cyphers open the free block, then run
+("Phil Wizard and guests on the skills it takes to build a career in breaking — and the
+many pathways to make it your living. More panelists to be confirmed soon."). Both panels are 1.25 hr each; cyphers open the free block, then run
 straight into the panels with no bridging gap, ending right as the paid workshops start
 at 1:30. Confirmed so far: Lazylegz (Luca Patuelli) features on the Mentorship panel and
 Phil Wizard on the career-pathways panel (cutouts shown in the tickets-section Sunday
