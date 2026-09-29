@@ -53,8 +53,8 @@ international guests, built to inspire across generations.*
 
 ## 3. Ticket packages
 
-*Competitors and Audience are door prices (walk-up, day-of); Workshops and the
-Full Festival Pass are advance, Eventbrite-only prices. Early bird tickets
+*Competitors and Audience are door prices (walk-up, day-of); Workshops are
+advance, Eventbrite-only prices. Early bird tickets
 (no "super early bird" tier — just early bird) are on Eventbrite now, in
 limited quantities for a limited time — site copy calls this out with a
 "Limited time" badge in the tickets section lede, again as a bold
@@ -74,15 +74,16 @@ Workshop Tickets" button linking to
 
 Site shows these as a single compact list (`.ticket-list`), not individual
 cards with their own buttons, one "Get Tickets" button at the bottom links to
-Eventbrite for everything (except Workshops, see below). The list is split
-into three labelled groups (`.ticket-group-label`, small uppercase gold
-dividers) so it's clear which rows a given day's tickets cover: "Sat ·
-Battle Day" (Competitors, Audience, Kids), "Sun · Workshops" (Workshops),
-and "Sat + Sun · Full Weekend" (Full Festival Pass, whose day tag reads
-"All" instead of a single day). A one-line caption under the "Get Tickets"
-button spells out exactly what it covers: "For Battle Day (Sat) tickets and
-the Full Festival Pass. Sunday-only workshop tickets and free panel
-registration are below ↓" — pointing at the separate workshop-callout box.
+Eventbrite for Battle Day (Workshops and panels are a separate ticket, see
+below). The list is split into two labelled groups (`.ticket-group-label`,
+small uppercase gold dividers) so it's clear which rows a given day's
+tickets cover: "Sat · Battle Day" (Competitors, Audience, Kids) and "Sun ·
+Workshops" (Workshops). A one-line caption under the "Get Tickets" button
+spells out exactly what it covers: "For Battle Day (Sat) tickets.
+Sunday-only workshop tickets and free panel registration are below ↓" —
+pointing at the separate workshop-callout box. The Full Festival Pass
+bundle tier was removed from the site entirely (was $40 for both workshops
++ Battle Day) — every ticket is now bought separately per day.
 
 | Package | Price | Includes |
 |---|---|---|
@@ -90,42 +91,35 @@ registration are below ↓" — pointing at the separate workshop-callout box.
 | Audience | $25, door price | Battle Day entry for spectators |
 | Kids (under 10) | $5, door price | Battle Day entry for kids under 10 |
 | Workshops | $20 each | Separate ticket. Book 1–2, or 2 for $30 |
-| **Full Festival Pass** | **$40** | both workshops + Battle Day (also includes Legacy Party & Sunday's panels) |
-
-Site copy spells out the Full Pass contents in the ticket row itself only
-("both workshops + Battle Day" hint) — the longer explanatory paragraph
-that used to repeat this below the ticket list was removed as redundant
-(Kids-under-10 pricing, the free Sunday panels, and the separate-workshop-
-ticket note are all already stated elsewhere on the page).
 
 **Workshops and panels are on a separate Eventbrite page from the main
-Festival ticket** — only the Full Festival Pass includes Battle Day on the
-main ticket. Below the main ticket list/button, a compact "Sunday: Panels &
-Workshops" callout (`.workshop-callout`) covers both in one minimal box: a
-plain heading (no badge), a background-removed cutout photo of each
-instructor (`.instructor-duo`, Ronnie and Puzzles, standing side by side
-with their name and which workshop they teach), the venue (Unity Studio,
-1560 Yonge St Suite 204, Toronto, wheelchair accessible), a single
-five-line list of all five slots
+Battle Day ticket.** Below the main ticket list/button, a compact "Sunday:
+Panels & Workshops" callout (`.workshop-callout`) covers both in one
+minimal box: a plain heading (no badge), two background-removed cutout rows
+(`.instructor-duo`, each with a small `.cta-group-label` above it): first
+"Panelists" (labelled "more to be confirmed soon") — Phil Wizard (breaking
+careers panel; Lazylegz's cutout is still pending, so only Phil's photo
+shows for now) — then "Workshop instructors" — Ronnie and Puzzles, standing
+side by side with their name and which workshop they teach — the venue
+(Unity Studio, 1560 Yonge St Suite 204, Toronto, wheelchair accessible), a
+single five-line list of all five slots
 (10–11 AM Doors, cyphers & networking (free), 11 AM–12:15 PM Panel: Mentorship
 (free), 12:15–1:30 PM Panel: Building career pathways for Breaking in Canada
 (free), 1:30–3:00 PM Workshop 1: Creativity (Ronnie), 3:00–4:30 PM
 Workshop 2: Foundation to Style (Puzzles)). Each panel slot carries the
 same one-line description used in the schedule (`.slot-desc` sub-line).
-Below the slot list, a second cutout row (`.panelist-duo`: Lazylegz
-labelled "Mentorship panel" and Phil Wizard labelled "Careers panel",
-round-masked photos) with a "More panelists to be confirmed soon." note
-underneath, then one price line
-("Panels free · Workshops $20 each, or 2 for $30"), and a single
-"Register & Get Tickets" button
-linking to `https://legacyworkshopsandpanel.eventbrite.ca` (the same
-Eventbrite page covers both, so one button replaces the previous two).
-Deliberately terse — this box had grown text-heavy with duplicated copy and
-two near-identical buttons, so it was trimmed to the minimum needed to
-register or buy. Below the button, a short clarifying line: "Sunday only.
-Already have the Full Festival Pass? You're covered — no need to buy again
-here." — added alongside the `.ticket-list` group labels/caption above to
-make it unambiguous which of the two boxes' buttons a visitor needs.
+Above the venue line sit a "Panelists" cutout row (Lazylegz, round-masked
+photo, "Mentorship" · Phil Wizard, cutout, "Career pathways" — with a
+"more to be confirmed soon" hint on the label) and a "Workshop
+instructors" cutout row (Ronnie and Puzzles). Then one price line
+("Panels free, limited seats · Workshops $20 each, or 2 for $30"), a
+clarifying note that panels are free but still ticketed ("Panels are
+free, but you still need a ticket — tap below to register."), and a
+single "Register & Get Tickets" button linking to
+`https://legacyworkshopsandpanel.eventbrite.ca` (the same Eventbrite page
+covers both, so one button replaces the previous two). Deliberately terse
+— this box had grown text-heavy with duplicated copy and two near-identical
+buttons, so it was trimmed to the minimum needed to register or buy.
 
 ## 4. Reusable prompts
 
@@ -194,8 +188,9 @@ address before launch). Called out on the site as its own thing, not part of the
 Battle Day timeline/venue.
 
 *Flow rationale: youth battles finish early so families can leave before evening; the Pro
-final closes the day at peak energy; Exchanges are spread out as palate-cleansers between
-tournament rounds.*
+final closes the day at peak energy; the two showcase battles are spread out as
+palate-cleansers between tournament rounds. Only 2 showcase battles this year (down from 3
+exhibitions in an earlier draft): Riko vs Konatsu, and an East vs West Coast Youth Battle.*
 
 **Sun Oct 25 — Workshops & Panels** · Unity Studio, 1560 Yonge St Suite 204 (wheelchair accessible) · 10 AM–4:30 PM
 Free block, 10 AM–1:30 PM: 10:00–11:00 cyphers (community) → 11:00–12:15 Panel Discussion:
@@ -224,9 +219,9 @@ note under the list: "Cyphers & panels (10 AM–1:30 PM) are free. Workshops: $2
 for $30." Same pricing repeated in the Tickets & Passes section (both the Workshops row
 hint "or 2 for $30" and the paragraph below the ticket list). Each panel gets a short
 one-line description under its title — the exact same sentence in the tickets-section
-callout (`.slot-desc`) and the schedule (`.sched-desc`) — ending in a panelist status
-line ("Panelists to be announced soon." / "More panelists to be confirmed soon.") that
-gets updated as panelists confirm.*
+callout (`.slot-desc`) and the schedule (`.sched-desc`) — naming its confirmed featured
+panelist (Lazylegz on Mentorship, Phil Wizard on career pathways) and ending in a "More
+panelists to be confirmed soon." status line that gets updated as panelists confirm.*
 
 ## 6. Crew & volunteering
 

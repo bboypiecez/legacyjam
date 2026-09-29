@@ -62,7 +62,8 @@ a test submission through each form and confirm the activation email lands
 
 - [x] Exchanges matchups settled — 2 exhibitions: **Konatsu vs Riko** and **East Coast vs West Coast youth battle** (Mad Track / Stripes matchups dropped, OG Cypher slot cut)
 - [ ] Confirm airport shuttle logistics for Generations Partners (now the only guests offered a pre-booked shuttle) + who monitors the info@legacyjam.com inbox
-- [ ] Confirm Eventbrite ticket tiers match: $20 competitors / $25 audience / $5 kids under 10 / $20 each workshop (or $30 for 2) / $40 full festival pass
+- [ ] Confirm Eventbrite ticket tiers match: $20 competitors / $25 audience / $5 kids under 10 / $20 each workshop (or $30 for 2) — Full Festival Pass tier removed from the site
+- [ ] Get Lazylegz's (Luca Patuelli) cutout photo from the client to add next to Phil Wizard's in the Panelists row
 - [ ] **Activate FormSubmit for info@legacyjam.com** — click the one-time confirmation link (see note above) or submissions will keep going nowhere
 - [x] Set up the Generations Partner sign-up form (school registration, promo code, VIP meet & greet) — later replaced with a mailto: link, see note above
 
