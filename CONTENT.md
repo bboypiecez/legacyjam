@@ -108,10 +108,15 @@ with their name and which workshop they teach), the venue (Unity Studio,
 1560 Yonge St Suite 204, Toronto, wheelchair accessible), a single
 five-line list of all five slots
 (10–11 AM Doors, cyphers & networking (free), 11 AM–12 PM Panel: Mentorship
-(free), 12–1 PM Panel: Breaking careers (free), 1:30–3:00 PM Workshop 1:
-Creativity (Ronnie), 3:00–4:30 PM Workshop 2: Foundation to Style
-(Puzzles)), one price line ("Panels free · Workshops $20 each, or 2 for
-$30"), and a single "Register & Get Tickets" button
+(free), 12–1 PM Panel: Building career pathways for Breaking in Canada
+(free), 1:30–3:00 PM Workshop 1: Creativity (Ronnie), 3:00–4:30 PM
+Workshop 2: Foundation to Style (Puzzles)). Each panel slot carries the
+same one-line description used in the schedule (`.slot-desc` sub-line).
+Below the slot list, a second cutout row (`.panelist-duo`: Lazylegz and
+Phil Wizard, round-masked photos labelled "Panelist") with a "More
+panelists to be confirmed soon." note underneath, then one price line
+("Panels free · Workshops $20 each, or 2 for $30"), and a single
+"Register & Get Tickets" button
 linking to `https://legacyworkshopsandpanel.eventbrite.ca` (the same
 Eventbrite page covers both, so one button replaces the previous two).
 Deliberately terse — this box had grown text-heavy with duplicated copy and
@@ -191,11 +196,14 @@ tournament rounds.*
 
 **Sun Oct 25 — Workshops & Panels** · Unity Studio, 1560 Yonge St Suite 204 (wheelchair accessible) · 10 AM–4:30 PM
 Free block, 10 AM–1:30 PM: 10:00–11:00 cyphers (community) → 11:00–12:00 Panel Discussion:
-Mentorship ("Why mentorship matters to breaking's next generation.") → 12:00–1:00 Panel
-Discussion: Breaking careers & parallel careers ("Building a career in and beyond
-breaking.") → 1:00–1:30 more cyphers (community). Both panels are a full hour each and
-list "Panelists to be announced soon." until confirmed; cyphers bookend the panels at the
-start and end of the free block.
+Mentorship ("Real talk on the mentors who shaped Canadian breaking — and how the next
+generation finds theirs. Panelists to be announced soon.") → 12:00–1:00 Panel Discussion:
+Building career pathways for Breaking in Canada ("Lazylegz, Phil Wizard and guests on
+turning breaking into a career in Canada. More panelists to be confirmed soon.") →
+1:00–1:30 more cyphers (community). Both panels are a full hour each; cyphers bookend the
+panels at the start and end of the free block. Lazylegz and Phil Wizard are the first
+confirmed panelists (cutouts shown in the tickets-section Sunday callout); the Mentorship
+panel still lists "Panelists to be announced soon."
 Paid workshops, 1:30–4:30 PM: 1:30–3:00 Workshop 1: Creativity, taught by Ronnie (Full Force,
 SuperCr3w, 7 Commandoz, SuperWockeez, District Arts) → 3:00–4:30 Workshop 2: From Foundation
 to Style, taught by Puzzles (Supernaturalz, Nooma Space Academy). Each workshop is 1.5 hr,
@@ -208,9 +216,11 @@ Program partners) appears at the bottom of the card since Unity Studio is the ve
 ticket. Site copy calls out "(free)" next to each Sunday-morning schedule item and adds a
 note under the list: "Cyphers & panels (10 AM–1:30 PM) are free. Workshops: $20 each, or 2
 for $30." Same pricing repeated in the Tickets & Passes section (both the Workshops row
-hint "or 2 for $30" and the paragraph below the ticket list). Each panel gets a short 6–8
-word one-line description under its title (`.sched-desc`), plus a "Panelists to be
-announced soon" placeholder — replace once panelists are confirmed.*
+hint "or 2 for $30" and the paragraph below the ticket list). Each panel gets a short
+one-line description under its title — the exact same sentence in the tickets-section
+callout (`.slot-desc`) and the schedule (`.sched-desc`) — ending in a panelist status
+line ("Panelists to be announced soon." / "More panelists to be confirmed soon.") that
+gets updated as panelists confirm.*
 
 ## 6. Crew & volunteering
 
