@@ -112,9 +112,10 @@ five-line list of all five slots
 (free), 1:30–3:00 PM Workshop 1: Creativity (Ronnie), 3:00–4:30 PM
 Workshop 2: Foundation to Style (Puzzles)). Each panel slot carries the
 same one-line description used in the schedule (`.slot-desc` sub-line).
-Below the slot list, a second cutout row (`.panelist-duo`: Lazylegz and
-Phil Wizard, round-masked photos labelled "Panelist") with a "More
-panelists to be confirmed soon." note underneath, then one price line
+Below the slot list, a second cutout row (`.panelist-duo`: Lazylegz
+labelled "Mentorship panel" and Phil Wizard labelled "Careers panel",
+round-masked photos) with a "More panelists to be confirmed soon." note
+underneath, then one price line
 ("Panels free · Workshops $20 each, or 2 for $30"), and a single
 "Register & Get Tickets" button
 linking to `https://legacyworkshopsandpanel.eventbrite.ca` (the same
@@ -198,15 +199,15 @@ tournament rounds.*
 
 **Sun Oct 25 — Workshops & Panels** · Unity Studio, 1560 Yonge St Suite 204 (wheelchair accessible) · 10 AM–4:30 PM
 Free block, 10 AM–1:30 PM: 10:00–11:00 cyphers (community) → 11:00–12:15 Panel Discussion:
-Mentorship ("Real talk on the mentors who shaped Canadian breaking — and how the next
-generation finds theirs. Panelists to be announced soon.") → 12:15–1:30 Panel Discussion:
-Building career pathways for Breaking in Canada ("Lazylegz, Phil Wizard and guests on
-turning breaking into a career in Canada. More panelists to be confirmed soon."). Both
-panels are 1.25 hr each; cyphers open the free block, then run straight into the panels
-with no bridging gap, ending right as the paid workshops start at 1:30. Lazylegz and Phil
-Wizard are the first confirmed career-pathways panelists (cutouts shown in the
-tickets-section Sunday callout); the Mentorship panel still lists "Panelists to be
-announced soon."
+Mentorship ("Lazylegz (Luca Patuelli) and guests on the mentors who shaped Canadian
+breaking — and how the next generation finds theirs. More panelists to be confirmed
+soon.") → 12:15–1:30 Panel Discussion: Building career pathways for Breaking in Canada
+("Phil Wizard and guests on turning breaking into a career in Canada. More panelists to
+be confirmed soon."). Both panels are 1.25 hr each; cyphers open the free block, then run
+straight into the panels with no bridging gap, ending right as the paid workshops start
+at 1:30. Confirmed so far: Lazylegz (Luca Patuelli) features on the Mentorship panel and
+Phil Wizard on the career-pathways panel (cutouts shown in the tickets-section Sunday
+callout, labelled with their panel); more panelists to be confirmed on both.
 Paid workshops, 1:30–4:30 PM: 1:30–3:00 Workshop 1: Creativity, taught by Ronnie (Full Force,
 SuperCr3w, 7 Commandoz, SuperWockeez, District Arts) → 3:00–4:30 Workshop 2: From Foundation
 to Style, taught by Puzzles (Supernaturalz, Nooma Space Academy). Each workshop is 1.5 hr,
