@@ -102,11 +102,14 @@ ticket note are all already stated elsewhere on the page).
 Festival ticket** — only the Full Festival Pass includes Battle Day on the
 main ticket. Below the main ticket list/button, a compact "Sunday: Panels &
 Workshops" callout (`.workshop-callout`) covers both in one minimal box: a
-plain heading (no badge), a background-removed cutout photo of each
-instructor (`.instructor-duo`, Ronnie and Puzzles, standing side by side
-with their name and which workshop they teach), the venue (Unity Studio,
-1560 Yonge St Suite 204, Toronto, wheelchair accessible), a single
-five-line list of all five slots
+plain heading (no badge), two background-removed cutout rows
+(`.instructor-duo`, each with a small `.cta-group-label` above it): first
+"Panelists" — Phil Wizard (breaking careers panel; Lazylegz's cutout is
+still pending, so only Phil's photo shows for now) — then "Workshop
+instructors" — Ronnie and Puzzles, standing side by side with their name
+and which workshop they teach — the venue (Unity Studio, 1560 Yonge St
+Suite 204, Toronto, wheelchair accessible), a single five-line list of all
+five slots
 (10–11 AM Doors, cyphers & networking (free), 11 AM–12:15 PM Panel: Mentorship
 (free), 12:15–1:30 PM Panel: Breaking careers (free), 1:30–3:00 PM Workshop 1:
 Creativity (Ronnie), 3:00–4:30 PM Workshop 2: Foundation to Style
@@ -171,8 +174,8 @@ Collective is the venue.
 
 **Sat Oct 24 — Battle Day** · 918 Bathurst St (not wheelchair accessible) · 12–7:30 PM
 12:00 arrive/register/cyphers → 1:00 Pro & Youth cypher prelims (2 circles, 1 hr) → 2:00
-Generations prelims (1 rd, 1.5 hr) → 3:30 Exhibitions 1 & 2 → 4:00 Generations top 16 (1 rd)
-→ 4:30 Pro & Youth top 8 (2 rds) → 5:00 Generations top 8 (1 rd) → 5:30 Exhibition 3 →
+Generations prelims (1 rd, 1.5 hr) → 3:30 Showcase: Riko vs Konatsu → 4:00 Generations top 16 (1 rd)
+→ 4:30 Pro & Youth top 8 (2 rds) → 5:00 Generations top 8 (1 rd) → 5:30 Showcase: East vs West Coast Youth Battle →
 5:45 Pro & Youth top 4 (3 rds) → 6:15 Generations top 4 (2 rds) → 6:30 Pro & Youth finals
 (5 rds) → 6:45 OG Cypher (20 min) → 7:00 Generations final (2 rds) → 7:30 awards
 
@@ -186,16 +189,17 @@ address before launch). Called out on the site as its own thing, not part of the
 Battle Day timeline/venue.
 
 *Flow rationale: youth battles finish early so families can leave before evening; the Pro
-final closes the day at peak energy; Exchanges are spread out as palate-cleansers between
-tournament rounds.*
+final closes the day at peak energy; the two showcase battles are spread out as
+palate-cleansers between tournament rounds. Only 2 showcase battles this year (down from 3
+exhibitions in an earlier draft): Riko vs Konatsu, and an East vs West Coast Youth Battle.*
 
 **Sun Oct 25 — Workshops & Panels** · Unity Studio, 1560 Yonge St Suite 204 (wheelchair accessible) · 10 AM–4:30 PM
 Free block, 10 AM–1:30 PM: 10:00–11:00 cyphers (community) → 11:00–12:15 Panel Discussion:
-Mentorship ("Why mentorship matters to breaking's next generation.") → 12:15–1:30 Panel
-Discussion: Breaking careers & parallel careers ("Building a career in and beyond
-breaking."). Both panels are 1.25 hr each and list "Panelists to be announced soon." until
-confirmed; cyphers open the free block, then run straight into the panels with no bridging
-gap, ending right as the paid workshops start at 1:30.
+Mentorship ("Why mentorship matters to breaking's next generation. With Lazylegz.") →
+12:15–1:30 Panel Discussion: Breaking careers & parallel careers ("Building a career in and
+beyond breaking. With Phil Wizard."). Both panels are 1.25 hr each; cyphers open the free
+block, then run straight into the panels with no bridging gap, ending right as the paid
+workshops start at 1:30.
 Paid workshops, 1:30–4:30 PM: 1:30–3:00 Workshop 1: Creativity, taught by Ronnie (Full Force,
 SuperCr3w, 7 Commandoz, SuperWockeez, District Arts) → 3:00–4:30 Workshop 2: From Foundation
 to Style, taught by Puzzles (Supernaturalz, Nooma Space Academy). Each workshop is 1.5 hr,
@@ -209,8 +213,9 @@ ticket. Site copy calls out "(free)" next to each Sunday-morning schedule item a
 note under the list: "Cyphers & panels (10 AM–1:30 PM) are free. Workshops: $20 each, or 2
 for $30." Same pricing repeated in the Tickets & Passes section (both the Workshops row
 hint "or 2 for $30" and the paragraph below the ticket list). Each panel gets a short 6–8
-word one-line description under its title (`.sched-desc`), plus a "Panelists to be
-announced soon" placeholder — replace once panelists are confirmed.*
+word one-line description under its title (`.sched-desc`), with a "With [panelist]." credit
+appended now that Lazylegz (Mentorship) and Phil Wizard (Breaking careers) are confirmed;
+the `.ticket-list` hint text next to each panel name repeats the same panelist name.*
 
 ## 6. Crew & volunteering
 

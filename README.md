@@ -61,7 +61,7 @@ a test submission through each form and confirm the activation email lands
 ## 📋 Internal production notes (keep off the public site)
 
 - [ ] Check if **Mad Track** is still available Oct 24
-- [ ] Look into Exchanges opponents — **Stripes? Luigi?**
+- [x] Look into Exchanges opponents — resolved as 2 showcase battles: Riko vs Konatsu, East vs West Coast Youth Battle
 - [ ] Confirm airport shuttle logistics for Generations Partners (now the only guests offered a pre-booked shuttle) + who monitors the info@legacyjam.com inbox
 - [ ] Confirm Eventbrite ticket tiers match: $20 competitors / $25 audience / $5 kids under 10 / $20 each workshop (or $30 for 2) / $40 full festival pass
 - [ ] **Activate FormSubmit for info@legacyjam.com** — click the one-time confirmation link (see note above) or submissions will keep going nowhere
