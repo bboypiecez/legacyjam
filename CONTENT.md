@@ -171,8 +171,9 @@ Two schedule lines, both 4–10 PM, each led with a pronounced uppercase
 **Welcome Jam** (cyphers, music & good vibes) and **Graffiti Workshops**
 (open & youth sessions). No competitive battles, just a low-key kickoff to
 meet people before Battle Day. The Collective logo (`.logo-row`, same asset
-used under Program partners) appears at the bottom of the card since
-Collective is the venue.
+used under Program partners) appears at the bottom of the card with a
+"Programming partner for this day" label beside it (`.sched-partner`) —
+Collective is the venue and the day's programming partner.
 
 **Sat Oct 24 — Battle Day** · 918 Bathurst St (not wheelchair accessible) · 12–7:30 PM
 12:00 arrive/register/cyphers → 1:00 Pro & Youth cypher prelims (2 circles, 1 hr) → 2:00
@@ -211,7 +212,9 @@ to Style, taught by Puzzles (Supernaturalz, Nooma Space Academy). Each workshop 
 with the theme in the slot title and instructor credit shown as a `.sched-desc` sub-line
 underneath (matching the panel sub-line pattern). $20 each workshop, or 2 for $30.
 The Unity Charity logo (`.logo-row`, linked to unitycharity.com, same asset used under
-Program partners) appears at the bottom of the card since Unity Studio is the venue.
+Program partners) appears at the bottom of the card with a "Programming partner for this
+day" label beside it (`.sched-partner`) — Unity Studio is the venue and Unity Charity is
+the day's programming partner.
 
 *Cyphers and both panels are free and open to everyone; only the 2 workshops require a
 ticket. Site copy calls out "(free)" next to each Sunday-morning schedule item and adds a

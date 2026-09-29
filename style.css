@@ -588,6 +588,12 @@ section[id] { scroll-margin-top: 4.5rem; }
   letter-spacing: 0.04em;
 }
 .sched-logo-row { margin: 0.7rem 0 0; }
+.sched-partner { display: flex; align-items: center; flex-wrap: wrap; gap: 0.15rem 0.7rem; margin-top: 0.7rem; }
+.sched-partner .sched-logo-row { margin: 0; }
+.sched-partner-label {
+  font-size: 0.72rem; font-weight: 700; color: var(--cream-dim);
+  text-transform: uppercase; letter-spacing: 0.05em;
+}
 .logo-row.sched-logo-row li { min-height: 2.6rem; min-width: 5rem; padding: 0.35rem 0.6rem; }
 .logo-row.sched-logo-row img { max-width: 90px; max-height: 1.8rem; }
 
