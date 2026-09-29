@@ -391,12 +391,20 @@ section[id] { scroll-margin-top: 4.5rem; }
 }
 .instructor-duo span { font-size: 0.8rem; font-weight: 700; color: var(--cream); }
 .instructor-duo span .hint { display: block; font-weight: 500; }
+.instructor-duo img.photo-round {
+  height: 7rem; width: 7rem; object-fit: cover; object-position: top;
+  border-radius: 50%; border: 2px solid rgba(228,199,61,0.55);
+}
 .workshop-slots {
   list-style: none; margin: 0.9rem auto 0; padding: 0;
   display: grid; gap: 0.45rem; max-width: 24rem; text-align: left;
 }
 .workshop-slots li { font-size: 0.88rem; color: var(--cream-dim); }
 .workshop-slots .time { color: var(--gold-bright); }
+.workshop-slots .slot-desc {
+  display: block; margin: 0.15rem 0 0.2rem; padding-left: 0;
+  font-size: 0.78rem; color: var(--cream-dim); opacity: 0.85;
+}
 .workshop-callout-price {
   color: var(--gold-bright); font-weight: 700; font-size: 0.95rem;
   margin: 0.75rem 0 0;
@@ -577,6 +585,12 @@ section[id] { scroll-margin-top: 4.5rem; }
   letter-spacing: 0.04em;
 }
 .sched-logo-row { margin: 0.7rem 0 0; }
+.sched-partner { display: flex; align-items: center; flex-wrap: wrap; gap: 0.15rem 0.7rem; margin-top: 0.7rem; }
+.sched-partner .sched-logo-row { margin: 0; }
+.sched-partner-label {
+  font-size: 0.72rem; font-weight: 700; color: var(--cream-dim);
+  text-transform: uppercase; letter-spacing: 0.05em;
+}
 .logo-row.sched-logo-row li { min-height: 2.6rem; min-width: 5rem; padding: 0.35rem 0.6rem; }
 .logo-row.sched-logo-row img { max-width: 90px; max-height: 1.8rem; }
 

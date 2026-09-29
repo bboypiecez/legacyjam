@@ -104,11 +104,17 @@ side by side with their name and which workshop they teach — the venue
 (Unity Studio, 1560 Yonge St Suite 204, Toronto, wheelchair accessible), a
 single five-line list of all five slots
 (10–11 AM Doors, cyphers & networking (free), 11 AM–12:15 PM Panel: Mentorship
-(free), 12:15–1:30 PM Panel: Breaking careers (free), 1:30–3:00 PM Workshop 1:
-Creativity (Ronnie), 3:00–4:30 PM Workshop 2: Foundation to Style
-(Puzzles)), one price line ("Panels free · Workshops $20 each, or 2 for
-$30"), a clarifying note that panels are free but still ticketed ("Panels
-are free, but you still need a ticket — tap below to register."), and a
+(free), 12:15–1:30 PM Panel: Building career pathways for Breaking in Canada
+(free), 1:30–3:00 PM Workshop 1: Creativity (Ronnie), 3:00–4:30 PM
+Workshop 2: Foundation to Style (Puzzles)). Each panel slot carries the
+same one-line description used in the schedule (`.slot-desc` sub-line).
+Above the venue line sit a "Panelists" cutout row (Lazylegz, round-masked
+photo, "Mentorship" · Phil Wizard, cutout, "Career pathways" — with a
+"more to be confirmed soon" hint on the label) and a "Workshop
+instructors" cutout row (Ronnie and Puzzles). Then one price line
+("Panels free, limited seats · Workshops $20 each, or 2 for $30"), a
+clarifying note that panels are free but still ticketed ("Panels are
+free, but you still need a ticket — tap below to register."), and a
 single "Register & Get Tickets" button linking to
 `https://legacyworkshopsandpanel.eventbrite.ca` (the same Eventbrite page
 covers both, so one button replaces the previous two). Deliberately terse
@@ -160,15 +166,17 @@ Two schedule lines, both 4–10 PM, each led with a pronounced uppercase
 **Welcome Jam** (cyphers, music & good vibes) and **Graffiti Workshops**
 (open & youth sessions). No competitive battles, just a low-key kickoff to
 meet people before Battle Day. The Collective logo (`.logo-row`, same asset
-used under Program partners) appears at the bottom of the card since
-Collective is the venue.
+used under Program partners) appears at the bottom of the card with a
+"Programming partner for this day" label beside it (`.sched-partner`) —
+Collective is the venue and the day's programming partner.
 
 **Sat Oct 24 — Battle Day** · 918 Bathurst St (not wheelchair accessible) · 12–7:30 PM
 12:00 arrive/register/cyphers → 1:00 Pro & Youth cypher prelims (2 circles, 1 hr) → 2:00
-Generations prelims (1 rd, 1.5 hr) → 3:30 Showcase: Riko vs Konatsu → 4:00 Generations top 16 (1 rd)
-→ 4:30 Pro & Youth top 8 (2 rds) → 5:00 Generations top 8 (1 rd) → 5:30 Showcase: East vs West Coast Youth Battle →
-5:45 Pro & Youth top 4 (3 rds) → 6:15 Generations top 4 (2 rds) → 6:30 Pro & Youth finals
-(5 rds) → 7:00 Generations final (2 rds) → 7:30 awards
+Generations prelims (1 rd, 1.5 hr) → 3:30 Exhibition 1: Konatsu vs Riko → 4:00 Generations
+top 16 (1 rd) → 4:30 Pro & Youth top 8 (2 rds) → 5:00 Generations top 8 (1 rd) → 5:30
+Exhibition 2: East Coast vs West Coast youth battle → 5:45 Pro & Youth top 4 (3 rds) →
+6:15 Generations top 4 (2 rds) → 6:30 Pro & Youth finals (5 rds) → 7:00 Generations final
+(2 rds) → 7:30 awards. (The OG Cypher slot was cut; only these two exhibitions remain.)
 
 **Children's Hip Hop Zone** — 1:00–6:00 PM, basement, 918 Bathurst St, ages 5–11.
 Beginner moves, breaker-name & art name tag making, art stations, a hip hop
@@ -186,27 +194,34 @@ exhibitions in an earlier draft): Riko vs Konatsu, and an East vs West Coast You
 
 **Sun Oct 25 — Workshops & Panels** · Unity Studio, 1560 Yonge St Suite 204 (wheelchair accessible) · 10 AM–4:30 PM
 Free block, 10 AM–1:30 PM: 10:00–11:00 cyphers (community) → 11:00–12:15 Panel Discussion:
-Mentorship ("Why mentorship matters to breaking's next generation. With Lazylegz.") →
-12:15–1:30 Panel Discussion: Breaking careers & parallel careers ("Building a career in and
-beyond breaking. With Phil Wizard."). Both panels are 1.25 hr each; cyphers open the free
-block, then run straight into the panels with no bridging gap, ending right as the paid
-workshops start at 1:30.
+Mentorship ("Lazylegz (Luca Patuelli) and guests on why mentorship keeps breaking alive —
+and what it takes to be a great mentor in this community. More panelists to be confirmed
+soon.") → 12:15–1:30 Panel Discussion: Building career pathways for Breaking in Canada
+("Phil Wizard and guests on the skills it takes to build a career in breaking — and the
+many pathways to make it your living. More panelists to be confirmed soon."). Both panels are 1.25 hr each; cyphers open the free block, then run
+straight into the panels with no bridging gap, ending right as the paid workshops start
+at 1:30. Confirmed so far: Lazylegz (Luca Patuelli) features on the Mentorship panel and
+Phil Wizard on the career-pathways panel (cutouts shown in the tickets-section Sunday
+callout, labelled with their panel); more panelists to be confirmed on both.
 Paid workshops, 1:30–4:30 PM: 1:30–3:00 Workshop 1: Creativity, taught by Ronnie (Full Force,
 SuperCr3w, 7 Commandoz, SuperWockeez, District Arts) → 3:00–4:30 Workshop 2: From Foundation
 to Style, taught by Puzzles (Supernaturalz, Nooma Space Academy). Each workshop is 1.5 hr,
 with the theme in the slot title and instructor credit shown as a `.sched-desc` sub-line
 underneath (matching the panel sub-line pattern). $20 each workshop, or 2 for $30.
 The Unity Charity logo (`.logo-row`, linked to unitycharity.com, same asset used under
-Program partners) appears at the bottom of the card since Unity Studio is the venue.
+Program partners) appears at the bottom of the card with a "Programming partner for this
+day" label beside it (`.sched-partner`) — Unity Studio is the venue and Unity Charity is
+the day's programming partner.
 
 *Cyphers and both panels are free and open to everyone; only the 2 workshops require a
 ticket. Site copy calls out "(free)" next to each Sunday-morning schedule item and adds a
 note under the list: "Cyphers & panels (10 AM–1:30 PM) are free. Workshops: $20 each, or 2
 for $30." Same pricing repeated in the Tickets & Passes section (both the Workshops row
-hint "or 2 for $30" and the paragraph below the ticket list). Each panel gets a short 6–8
-word one-line description under its title (`.sched-desc`), with a "With [panelist]." credit
-appended now that Lazylegz (Mentorship) and Phil Wizard (Breaking careers) are confirmed;
-the `.ticket-list` hint text next to each panel name repeats the same panelist name.*
+hint "or 2 for $30" and the paragraph below the ticket list). Each panel gets a short
+one-line description under its title — the exact same sentence in the tickets-section
+callout (`.slot-desc`) and the schedule (`.sched-desc`) — naming its confirmed featured
+panelist (Lazylegz on Mentorship, Phil Wizard on career pathways) and ending in a "More
+panelists to be confirmed soon." status line that gets updated as panelists confirm.*
 
 ## 6. Crew & volunteering
 
@@ -253,7 +268,7 @@ accuracy, condensed to 3–4 sentences each:**
 exhibitions) are on file; the above is condensed to match the site's existing length.*
 
 **Volunteer CTA:** "Apply to volunteer for Legacy Jam" — lives in its own
-"Volunteer With Us" section right after "Why Legacy Jam," next to the media
+"Volunteer With Us" section right after the Schedule, next to the media
 pass request button. Links to `volunteer.html`, a built-in application form
 that submits via FormSubmit to info@legacyjam.com (name, email, 19+, do you
 drive, car access for the weekend, which volunteer roles — drivers,

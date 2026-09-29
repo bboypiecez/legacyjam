@@ -35,7 +35,7 @@ These placeholders are marked with `TODO` comments in `index.html`:
 | `info@legacyjam.com` | travel, footer, volunteer button | confirmed email address |
 | ~~`assets/legacy-jam-logo.svg`~~ | header, hero, footer | ✅ done — official logo (vector, transparent background) |
 | Crew bio + milestones | `#about` section | ✅ done — real bios/milestones from confirmed source copy |
-| Artist Instagram handles | `#artists` section | verify every handle — several are best guesses (djbbad, djtimber, switchb, deadlymike, bgirltiff, bboymadtrack, bboystripes, mgbility, boobjester) |
+| Artist Instagram handles | `#artists` section | verify every handle — several are best guesses (djbbad, djtimber, switchb, deadlymike, bgirltiff, mgbility, boobjester) |
 | Legacy Party venue address | `#schedule` section (Sat, Oct 24 card) | confirmed venue name/address — site currently says only "a separate event at a different venue" |
 
 ### Logos
@@ -60,8 +60,7 @@ a test submission through each form and confirm the activation email lands
 
 ## 📋 Internal production notes (keep off the public site)
 
-- [ ] Check if **Mad Track** is still available Oct 24
-- [x] Look into Exchanges opponents — resolved as 2 showcase battles: Riko vs Konatsu, East vs West Coast Youth Battle
+- [x] Exchanges matchups settled — 2 exhibitions: **Konatsu vs Riko** and **East Coast vs West Coast youth battle** (Mad Track / Stripes matchups dropped, OG Cypher slot cut)
 - [ ] Confirm airport shuttle logistics for Generations Partners (now the only guests offered a pre-booked shuttle) + who monitors the info@legacyjam.com inbox
 - [ ] Confirm Eventbrite ticket tiers match: $20 competitors / $25 audience / $5 kids under 10 / $20 each workshop (or $30 for 2) — Full Festival Pass tier removed from the site
 - [ ] Get Lazylegz's (Luca Patuelli) cutout photo from the client to add next to Phil Wizard's in the Panelists row
@@ -77,7 +76,7 @@ a test submission through each form and confirm the activation email lands
 - **Oct 24 (Sat)** — Battle Day, 918 Bathurst St, Toronto (not wheelchair accessible),
   12–7:30 PM; Legacy Party after (DJ Mensa × Cypher Playground confirmed —
   public site copy keeps this to a general "one night to remember" line, doesn't name the DJ/duo)
-- **Oct 25 (Sun)** — Workshops & Panels, Unity Studio, 1560 Yonge St Suite 204, Toronto (wheelchair accessible) — cyphers, 2 panel discussions (mentorship; breaking & parallel careers), 2 workshops: Workshop 1 "Creativity" taught by Ronnie (Full Force, SuperCr3w, 7 Commandoz, SuperWockeez, District Arts), Workshop 2 "From Foundation to Style" taught by Puzzles (Supernaturalz, Nooma Space Academy)
+- **Oct 25 (Sun)** — Workshops & Panels, Unity Studio, 1560 Yonge St Suite 204, Toronto (wheelchair accessible) — cyphers, 2 panel discussions (Mentorship; Building career pathways for Breaking in Canada — Lazylegz & Phil Wizard confirmed, more panelists TBC), 2 workshops: Workshop 1 "Creativity" taught by Ronnie (Full Force, SuperCr3w, 7 Commandoz, SuperWockeez, District Arts), Workshop 2 "From Foundation to Style" taught by Puzzles (Supernaturalz, Nooma Space Academy)
 - **Battles** — Generations (2v2 teacher×student, 10-yr age gap), Youth Cypher (Under 19), Pro Cypher (19+); Legacy Exchanges (Canada vs. international) is a showcase, not a competitive battle — lives in "The Festival" copy
 - **Prizes** — Youth + Pro winners: flight & entry to Outbreak Europe 2027
 - **Judges** — Ronnie (Full Force), Logistx (Red Bull BC One All Star), MGability
