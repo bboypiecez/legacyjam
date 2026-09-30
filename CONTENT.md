@@ -106,7 +106,8 @@ minimal box: a plain heading (no badge), two background-removed cutout rows
 "Panelists" (labelled "more to be confirmed soon") — Phil Wizard (breaking
 careers panel; Lazylegz's cutout is still pending, so only Phil's photo
 shows for now) — then "Workshop instructors" — Ronnie and Puzzles, standing
-side by side with their name and which workshop they teach — the venue
+side by side with their name and topic (Ronnie: "Workshop 1: Creativity",
+Puzzles: "Workshop 2: Foundation to Style") — the venue
 (Unity Studio, 1560 Yonge St Suite 204, Toronto, wheelchair accessible), a
 single five-line list of all five slots
 (10–11 AM Doors, cyphers & networking (free), 11 AM–12:15 PM Panel: Mentorship
@@ -171,8 +172,8 @@ Collective is the venue.
 
 **Sat Oct 24 — Battle Day** · 918 Bathurst St (not wheelchair accessible) · 12–7:30 PM
 12:00 arrive/register/cyphers → 1:00 Pro & Youth cypher prelims (2 circles, 1 hr) → 2:00
-Generations prelims (1 rd, 1.5 hr) → 3:30 Showcase: Riko vs Konatsu → 4:00 Generations top 16 (1 rd)
-→ 4:30 Pro & Youth top 8 (2 rds) → 5:00 Generations top 8 (1 rd) → 5:30 Showcase: East vs West Coast Youth Battle →
+Generations prelims (1 rd, 1.5 hr) → 3:30 Legacy Exchange: Riko vs Konatsu → 4:00 Generations top 16 (1 rd)
+→ 4:30 Pro & Youth top 8 (2 rds) → 5:00 Generations top 8 (1 rd) → 5:30 Legacy Exchange: East vs West Coast Youth Battle →
 5:45 Pro & Youth top 4 (3 rds) → 6:15 Generations top 4 (2 rds) → 6:30 Pro & Youth finals
 (5 rds) → 7:00 Generations final (2 rds) → 7:30 awards
 
@@ -186,9 +187,10 @@ address before launch). Called out on the site as its own thing, not part of the
 Battle Day timeline/venue.
 
 *Flow rationale: youth battles finish early so families can leave before evening; the Pro
-final closes the day at peak energy; the two showcase battles are spread out as
-palate-cleansers between tournament rounds. Only 2 showcase battles this year (down from 3
-exhibitions in an earlier draft): Riko vs Konatsu, and an East vs West Coast Youth Battle.*
+final closes the day at peak energy; the two Legacy Exchange battles are spread out as
+palate-cleansers between tournament rounds. Only 2 Legacy Exchange battles this year (down
+from 3 exhibitions in an earlier draft): Riko vs Konatsu, and an East vs West Coast Youth
+Battle.*
 
 **Sun Oct 25 — Workshops & Panels** · Unity Studio, 1560 Yonge St Suite 204 (wheelchair accessible) · 10 AM–4:30 PM
 Free block, 10 AM–1:30 PM: 10:00–11:00 cyphers (community) → 11:00–12:15 Panel Discussion:
