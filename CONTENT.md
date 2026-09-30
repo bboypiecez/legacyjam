@@ -34,9 +34,15 @@ counts and the "purpose" line are intentionally left out of the public copy
 to keep each card to a couple of lines. Generations Battle uses a plain-language
 description instead of the Format/Age label pair, since "teacher and student
 battle side by side" reads clearer than "2v2 / 10+ yr gap" for that format.
+Generations Battle also carries a short maroon-tinted `.battle-note` between
+the format line and the prize band, flagging a hard eligibility requirement:
+every teacher/student pair must confirm their mentorship relationship via the
+mentorship form (`https://www.surveymonkey.com/r/legacygenerations`) to be
+eligible to battle. No other battle card has this note.
 
 - **Generations Battle** — Teacher and student battle side by side (minimum
-  10-year age gap per duo).
+  10-year age gap per duo). Required: every pair must confirm their
+  mentorship relationship via the mentorship form to be eligible to battle.
   *Prize: $2,500 cash: $1,200 winner · $500 second · $200 top 4 · $100 top 8.*
 - **Youth Cypher Battle** — Format: 1v1. Age: Under 19.
   *Prize: Youth is the Future Camp entry + flight to Outbreak Europe, July 2027
@@ -100,7 +106,8 @@ minimal box: a plain heading (no badge), two background-removed cutout rows
 "Panelists" (labelled "more to be confirmed soon") — Phil Wizard (breaking
 careers panel; Lazylegz's cutout is still pending, so only Phil's photo
 shows for now) — then "Workshop instructors" — Ronnie and Puzzles, standing
-side by side with their name and which workshop they teach — the venue
+side by side with their name and topic (Ronnie: "Workshop 1: Creativity",
+Puzzles: "Workshop 2: Foundation to Style") — the venue
 (Unity Studio, 1560 Yonge St Suite 204, Toronto, wheelchair accessible), a
 single five-line list of all five slots
 (10–11 AM Doors, cyphers & networking (free), 11 AM–12:15 PM Panel: Mentorship
@@ -172,11 +179,12 @@ Collective is the venue and the day's programming partner.
 
 **Sat Oct 24 — Battle Day** · 918 Bathurst St (not wheelchair accessible) · 12–7:30 PM
 12:00 arrive/register/cyphers → 1:00 Pro & Youth cypher prelims (2 circles, 1 hr) → 2:00
-Generations prelims (1 rd, 1.5 hr) → 3:30 Exhibition 1: Konatsu vs Riko → 4:00 Generations
-top 16 (1 rd) → 4:30 Pro & Youth top 8 (2 rds) → 5:00 Generations top 8 (1 rd) → 5:30
-Exhibition 2: East Coast vs West Coast youth battle → 5:45 Pro & Youth top 4 (3 rds) →
+Generations prelims (1 rd, 1.5 hr) → 3:30 Legacy Exchange: Konatsu vs Riko → 4:00
+Generations top 16 (1 rd) → 4:30 Pro & Youth top 8 (2 rds) → 5:00 Generations top 8 (1 rd)
+→ 5:30 Legacy Exchange: East vs West Coast Youth Battle → 5:45 Pro & Youth top 4 (3 rds) →
 6:15 Generations top 4 (2 rds) → 6:30 Pro & Youth finals (5 rds) → 7:00 Generations final
-(2 rds) → 7:30 awards. (The OG Cypher slot was cut; only these two exhibitions remain.)
+(2 rds) → 7:30 awards. (The OG Cypher slot was cut; only these two Legacy Exchange battles
+remain.)
 
 **Children's Hip Hop Zone** — 1:00–6:00 PM, basement, 918 Bathurst St, ages 5–11.
 Beginner moves, breaker-name & art name tag making, art stations, a hip hop
@@ -188,9 +196,10 @@ address before launch). Called out on the site as its own thing, not part of the
 Battle Day timeline/venue.
 
 *Flow rationale: youth battles finish early so families can leave before evening; the Pro
-final closes the day at peak energy; the two showcase battles are spread out as
-palate-cleansers between tournament rounds. Only 2 showcase battles this year (down from 3
-exhibitions in an earlier draft): Riko vs Konatsu, and an East vs West Coast Youth Battle.*
+final closes the day at peak energy; the two Legacy Exchange battles are spread out as
+palate-cleansers between tournament rounds. Only 2 Legacy Exchange battles this year (down
+from 3 exhibitions in an earlier draft): Konatsu vs Riko, and an East vs West Coast Youth
+Battle.*
 
 **Sun Oct 25 — Workshops & Panels** · Unity Studio, 1560 Yonge St Suite 204 (wheelchair accessible) · 10 AM–4:30 PM
 Free block, 10 AM–1:30 PM: 10:00–11:00 cyphers (community) → 11:00–12:15 Panel Discussion:
@@ -198,11 +207,12 @@ Mentorship ("Lazylegz (Luca Patuelli) and guests on why mentorship keeps breakin
 and what it takes to be a great mentor in this community. More panelists to be confirmed
 soon.") → 12:15–1:30 Panel Discussion: Building career pathways for Breaking in Canada
 ("Phil Wizard and guests on the skills it takes to build a career in breaking — and the
-many pathways to make it your living. More panelists to be confirmed soon."). Both panels are 1.25 hr each; cyphers open the free block, then run
-straight into the panels with no bridging gap, ending right as the paid workshops start
-at 1:30. Confirmed so far: Lazylegz (Luca Patuelli) features on the Mentorship panel and
-Phil Wizard on the career-pathways panel (cutouts shown in the tickets-section Sunday
-callout, labelled with their panel); more panelists to be confirmed on both.
+many pathways to make it your living. More panelists to be confirmed soon."). Both panels
+are 1.25 hr each; cyphers open the free block, then run straight into the panels with no
+bridging gap, ending right as the paid workshops start at 1:30. Confirmed so far: Lazylegz
+(Luca Patuelli) features on the Mentorship panel and Phil Wizard on the career-pathways
+panel (cutouts shown in the tickets-section Sunday callout, labelled with their panel);
+more panelists to be confirmed on both.
 Paid workshops, 1:30–4:30 PM: 1:30–3:00 Workshop 1: Creativity, taught by Ronnie (Full Force,
 SuperCr3w, 7 Commandoz, SuperWockeez, District Arts) → 3:00–4:30 Workshop 2: From Foundation
 to Style, taught by Puzzles (Supernaturalz, Nooma Space Academy). Each workshop is 1.5 hr,
