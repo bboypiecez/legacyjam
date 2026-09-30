@@ -34,9 +34,15 @@ counts and the "purpose" line are intentionally left out of the public copy
 to keep each card to a couple of lines. Generations Battle uses a plain-language
 description instead of the Format/Age label pair, since "teacher and student
 battle side by side" reads clearer than "2v2 / 10+ yr gap" for that format.
+Generations Battle also carries a short maroon-tinted `.battle-note` between
+the format line and the prize band, flagging a hard eligibility requirement:
+every teacher/student pair must confirm their mentorship relationship via the
+mentorship form (`https://www.surveymonkey.com/r/legacygenerations`) to be
+eligible to battle. No other battle card has this note.
 
 - **Generations Battle** — Teacher and student battle side by side (minimum
-  10-year age gap per duo).
+  10-year age gap per duo). Required: every pair must confirm their
+  mentorship relationship via the mentorship form to be eligible to battle.
   *Prize: $2,500 cash: $1,200 winner · $500 second · $200 top 4 · $100 top 8.*
 - **Youth Cypher Battle** — Format: 1v1. Age: Under 19.
   *Prize: Youth is the Future Camp entry + flight to Outbreak Europe, July 2027
