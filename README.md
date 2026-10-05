@@ -44,6 +44,13 @@ All partner and funder logos are real files in `assets/logos/` — nothing left 
 To add a new partner: drop the logo file in `assets/logos/` and add an `<li>` to the
 matching `logo-row` list in `index.html`.
 
+**Keep images optimized:** every asset in `assets/` is sized and compressed to roughly
+2x its largest on-page display size (e.g. `.logo-row` logos ≈300×104px, `.avatar`
+photos ≈200×200px, `.instructor-duo` cutouts ≈260px tall) and re-saved with
+lossless/high-quality compression — this cut the folder from ~5 MB to ~1.4 MB with no
+visible quality loss. When adding a new image, resize it to roughly 2x its CSS display
+size before committing rather than dropping in a full-resolution export.
+
 ### Volunteer, Media Pass & Generations Partner applications
 
 "Apply to volunteer for Legacy Jam" and "Become a Generations Partner" are
