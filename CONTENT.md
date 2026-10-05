@@ -103,9 +103,9 @@ Battle Day ticket.** Below the main ticket list/button, a compact "Sunday:
 Panels & Workshops" callout (`.workshop-callout`) covers both in one
 minimal box: a plain heading (no badge), two background-removed cutout rows
 (`.instructor-duo`, each with a small `.cta-group-label` above it): first
-"Panelists" (labelled "more to be confirmed soon") — Phil Wizard (breaking
-careers panel; Lazylegz's cutout is still pending, so only Phil's photo
-shows for now) — then "Workshop instructors" — Ronnie and Puzzles, standing
+"Panelists" (labelled "more to be confirmed soon") — Lazylegz (mentorship
+panel) and Phil Wizard (breaking careers panel), both with background-removed
+cutout photos — then "Workshop instructors" — Ronnie and Puzzles, standing
 side by side with their name and topic (Ronnie: "Workshop 1: Creativity",
 Puzzles: "Workshop 2: Foundation to Style") — the venue
 (Unity Studio, 1560 Yonge St Suite 204, Toronto, wheelchair accessible), a
