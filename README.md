@@ -90,6 +90,7 @@ a test submission through each form and confirm the activation email lands
 - **Judges** — Ronnie (Full Force), Logistx (Red Bull BC One All Star), MGability
 - **DJs** — Timber, B Bad; DJ Mensa for the Legacy Party
 - **Funders** — Toronto Arts Council
+- **Food Sponsor** — Nando's
 - **Academic partner** — Sheridan College
 - **Media partners** — Bboy Network, Outbreak Europe / The Legits
 - **Program partners** — Unity Charity, Balancing Act, Collective
