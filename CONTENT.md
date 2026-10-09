@@ -13,6 +13,12 @@ places if you change the message.
 **Dates:** October 23–25, 2026 · Toronto
 **One-liner:** A three-day breaking festival connecting generations — battles, cyphers, workshops, talks and the after party.
 
+**Hero mission line** (`.hero-mission`, below the tagline, above the dates/CTA
+row — the site's top-of-page mission statement):
+> Legacy Jam brings generations of breaking together — battles, mentorship,
+> cyphers, workshops and talks — celebrating the culture's builders while
+> opening doors for the next generation to grow, connect and lead.
+
 **Purpose statement (short):**
 > Breaking is rooted in cyphers, community and culture — passed down generation to
 > generation. Legacy Jam keeps that chain alive: celebrating the people who built

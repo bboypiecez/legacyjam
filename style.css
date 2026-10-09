@@ -253,6 +253,10 @@ section[id] { scroll-margin-top: 4.5rem; }
   margin: 1.5rem 0 0.75rem;
 }
 .tagline span { color: var(--maroon-2); margin: 0 0.15em; }
+.hero-mission {
+  max-width: 38rem; margin: 0 auto 1.1rem; color: var(--cream);
+  font-size: 1.02rem; line-height: 1.5;
+}
 .hero-meta { max-width: 34rem; margin: 0 auto 1rem; color: var(--cream-dim); }
 .hero-meta strong { color: var(--cream); font-size: 1.2rem; letter-spacing: 0.04em; }
 .family-note {
