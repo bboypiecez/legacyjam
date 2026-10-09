@@ -118,12 +118,13 @@ Puzzles, standing side by side with their name and topic (Ronnie: "Workshop
 1: Creativity", Puzzles: "Workshop 2: Foundation to Style") — the venue
 (Unity Studio, 1560 Yonge St Suite 204, Toronto, wheelchair accessible), a
 single five-line list of all five slots (10–11 AM Doors, cyphers &
-networking (free), 11 AM–12:15 PM Panel: Each One Teach One (Lazylegz,
-free), 12:15–1:30 PM Panel: Building Breaking Careers (Phil Wizard, free),
+networking (free), 11 AM–12:15 PM Panel: Each One Teach One: Mentors,
+Parents & the Legacy We Leave (Lazylegz, free), 12:15–1:30 PM Panel:
+Building Breaking Careers: Skills, Mindsets & Pathways (Phil Wizard, free),
 1:30–3:00 PM Workshop 1: Creativity (Ronnie), 3:00–4:30 PM Workshop 2:
-Foundation to Style (Puzzles)) — the compact list uses short panel-title
-forms, full titles and descriptions live in the main Schedule section
-below — one price line ("Panels free · Workshops $20 each, or 2 for
+Foundation to Style (Puzzles)) — full titles here match the main Schedule
+section below, but without the longer descriptions (kept to a one-line
+list to stay minimal) — one price line ("Panels free · Workshops $20 each, or 2 for
 $30"), a clarifying note that panels are free but still ticketed ("Panels
 are free, but you still need a ticket — tap below to register."), and a
 single "Register & Get Tickets" button linking to
@@ -204,18 +205,28 @@ Battle.*
 
 **Sun Oct 25 — Workshops & Panels** · Unity Studio, 1560 Yonge St Suite 204 (wheelchair accessible) · 10 AM–4:30 PM
 Free block, 10 AM–1:30 PM: 10:00–11:00 cyphers (community) → 11:00–12:15 Panel Discussion:
-"Each One Teach One: Mentors, Parents & the Legacy We Leave" ("Breakers share personal
-stories about their experiences as teachers, mentors, and parents. Panelists explore raising
-their own kids, passing on what they've learned, and helping the next generation build
-skills, confidence, and strong values through breaking." Panelist: Lazylegz (Luca Patuelli)) →
-12:15–1:30 Panel Discussion: "Building Breaking Careers: Skills, Mindsets & Pathways"
-("Breakers who have built long-standing careers share how they've developed careers,
-businesses, and projects through breaking and in related fields. Panelists explore how
-they've made a living, the challenges they've faced, and how skills developed through
-breaking have helped them succeed across different career paths." Panelists: Phil Wizard
-(Olympic Gold Medalist), additional panelists TBA). Both panels are 1.25 hr each; cyphers
-open the free block, then run straight into the panels with no bridging gap, ending right
-as the paid workshops start at 1:30.
+"Each One Teach One: Mentors, Parents & the Legacy We Leave" (site `.sched-desc`: "Breakers
+on teaching, mentoring & parenting — passing down skills, confidence & values. With
+Lazylegz (Luca Patuelli).") → 12:15–1:30 Panel Discussion: "Building Breaking Careers:
+Skills, Mindsets & Pathways" (site `.sched-desc`: "Breakers on building careers, businesses
+& projects through breaking. With Phil Wizard (Olympic gold medalist), more TBA."). Both
+panels are 1.25 hr each; cyphers open the free block, then run straight into the panels
+with no bridging gap, ending right as the paid workshops start at 1:30.
+
+*Official full panel descriptions (client-provided, used for Eventbrite/press — the
+on-site `.sched-desc` above is a shortened version to keep the schedule compact):*
+> **Each One Teach One: Mentors, Parents & the Legacy We Leave** — Breakers share personal
+> stories about their experiences as teachers, mentors, and parents. Panelists explore
+> raising their own kids, passing on what they've learned, and helping the next generation
+> build skills, confidence, and strong values through breaking. Panelist: Lazylegz (Luca
+> Patuelli).
+>
+> **Building Breaking Careers: Skills, Mindsets & Pathways** — Breakers who have built
+> long-standing careers share how they've developed careers, businesses, and projects
+> through breaking and in related fields. Panelists explore how they've made a living, the
+> challenges they've faced, and how skills developed through breaking have helped them
+> succeed across different career paths. Panelists: Phil Wizard (Olympic Gold Medalist),
+> additional panelists TBA.
 Paid workshops, 1:30–4:30 PM: 1:30–3:00 Workshop 1: Creativity, taught by Ronnie (Full Force,
 SuperCr3w, 7 Commandoz, SuperWockeez, District Arts) → 3:00–4:30 Workshop 2: From Foundation
 to Style, taught by Puzzles (Supernaturalz, Nooma Space Academy). Each workshop is 1.5 hr,
@@ -228,12 +239,13 @@ Program partners) appears at the bottom of the card since Unity Studio is the ve
 ticket. Site copy calls out "(free)" next to each Sunday-morning schedule item and adds a
 note under the list: "Cyphers & panels (10 AM–1:30 PM) are free. Workshops: $20 each, or 2
 for $30." Same pricing repeated in the Tickets & Passes section (both the Workshops row
-hint "or 2 for $30" and the paragraph below the ticket list). Each panel's full title and
-full description (as given by the client, verbatim) live under its title in the main
-Schedule section (`.sched-desc`), with the confirmed panelist(s) credited in a trailing
-sentence; the compact `.workshop-callout` ticket box uses short panel-title forms instead
-("Each One Teach One" / "Building Breaking Careers") to stay minimal, and its hint text
-next to each panel name carries the panelist's name.*
+hint "or 2 for $30" and the paragraph below the ticket list). Each panel's full title
+appears both in the Tickets section's compact list and under its title in the main
+Schedule section; the `.sched-desc` sub-line there is a tightened one-sentence summary
+(not the client's full verbatim description — see "Official full panel descriptions"
+above for that) so the schedule stays compact, with the confirmed panelist(s) credited
+in the same sentence; the `.workshop-callout` ticket box's hint text next to each panel
+name also carries the panelist's name.*
 
 ## 6. Crew & volunteering
 
