@@ -15,9 +15,10 @@ places if you change the message.
 
 **Hero mission line** (`.hero-mission`, below the tagline, above the dates/CTA
 row — the site's top-of-page mission statement):
-> Legacy Jam brings generations of breaking together — battles, mentorship,
-> cyphers, workshops and talks — celebrating the culture's builders while
-> opening doors for the next generation to grow, connect and lead.
+> Legacy Jam brings generations of Breaking together through battles,
+> mentorship, cyphers, workshops, talks and community, celebrating people who
+> built the culture while creating opportunities for the next generation to
+> grow, connect and lead.
 
 **Purpose statement (short):**
 > Breaking is rooted in cyphers, community and culture — passed down generation to
