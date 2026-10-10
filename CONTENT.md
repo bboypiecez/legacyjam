@@ -189,10 +189,11 @@ Judges Showcase (15 min) → 4:00 Generations top 16 (1 rd)
 5:45 Pro & Youth top 4 (2 rds) → 6:15 Generations top 4 (2 rds) → 6:30 Pro & Youth finals
 (3 rds) → 7:00 Generations final (2 rds) → 7:30 awards
 
-**Children's Hip Hop Zone** — 1:00–6:00 PM, basement, 918 Bathurst St, ages 5–11.
-Beginner moves, breaker-name & art name tag making, art stations, a hip hop
-scavenger hunt & a mini kids' cypher. Parents must accompany their children at
-all times.
+**Kids Hip Hop Zone** — 1:00–6:00 PM, basement, 918 Bathurst St, ages 5–11, $5.
+Three scheduled sessions: 1:00 PM Breaking with Bryce (TUFF), 3:00 PM Graffiti
+with Heist (Collective), 5:00 PM Expressive Arts with Creative Genius Academy.
+Ongoing 1–6 PM: name tag graffiti, art stations & a scavenger hunt. Parents
+must accompany their children at all times.
 
 **Legacy Party (19+)** — 9:00 PM, separate event, different venue (TODO: confirm
 address before launch). Called out on the site as its own thing, not part of the

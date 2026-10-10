@@ -496,6 +496,12 @@ section[id] { scroll-margin-top: 4.5rem; }
 }
 .kids-zone p { margin: 0.25rem 0 0; color: var(--cream-dim); font-size: 0.92rem; }
 .kids-zone .hint { display: block; margin-top: 0.3rem; }
+.kids-sessions {
+  list-style: none; margin: 0.5rem 0 0; padding: 0;
+  display: grid; gap: 0.3rem;
+}
+.kids-sessions li { color: var(--cream-dim); font-size: 0.92rem; }
+.kids-sessions .hint { display: inline; margin-top: 0; margin-left: 0.3rem; }
 
 /* ---------- guest artists (compact people grid) ---------- */
 .people {
