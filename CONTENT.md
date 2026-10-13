@@ -211,26 +211,32 @@ Generations top 16 resumes at 4:00.*
 Free block, 10 AM–1:30 PM: 10:00–11:00 cyphers (community) → 11:00–12:15 Panel Discussion:
 "Each One Teach One: Mentors, Parents & the Legacy We Leave" (site `.sched-desc`: "Breakers
 on teaching, mentoring & parenting — passing down skills, confidence & values. With
-Lazylegz (Luca Patuelli).") → 12:15–1:30 Panel Discussion: "Building Breaking Careers:
-Skills, Mindsets & Pathways" (site `.sched-desc`: "Breakers on building careers, businesses
-& projects through breaking. With Phil Wizard (Olympic gold medalist), more TBA."). Both
-panels are 1.25 hr each; cyphers open the free block, then run straight into the panels
-with no bridging gap, ending right as the paid workshops start at 1:30.
+Lazylegz, Momo, Puzzles & Jooj. Moderated by Piecez.") → 12:15–1:30 Panel Discussion:
+"Building Breaking Careers: Skills, Mindsets & Pathways" (site `.sched-desc`: "Breakers on
+building careers, businesses & projects through breaking. With Phil Wizard, Deadly Mike, MG
+& Sami. Moderated by Piecez."). Both panels are 1.25 hr each; cyphers open the free block,
+then run straight into the panels with no bridging gap, ending right as the paid workshops
+start at 1:30.
+
+**Panelists (confirmed):**
+- *Each One Teach One: Mentors, Parents & the Legacy We Leave* — Lazylegz, Momo, Puzzles, Jooj
+- *Building Breaking Careers: Skills, Mindsets & Pathways* — Phil Wizard, Deadly Mike, MG, Sami
+- Both panels moderated by Piecez (Michael Prosserman)
 
 *Official full panel descriptions (client-provided, used for Eventbrite/press — the
 on-site `.sched-desc` above is a shortened version to keep the schedule compact):*
 > **Each One Teach One: Mentors, Parents & the Legacy We Leave** — Breakers share personal
 > stories about their experiences as teachers, mentors, and parents. Panelists explore
 > raising their own kids, passing on what they've learned, and helping the next generation
-> build skills, confidence, and strong values through breaking. Panelist: Lazylegz (Luca
-> Patuelli).
+> build skills, confidence, and strong values through breaking. Panelists: Lazylegz, Momo,
+> Puzzles, Jooj. Moderated by Piecez.
 >
 > **Building Breaking Careers: Skills, Mindsets & Pathways** — Breakers who have built
 > long-standing careers share how they've developed careers, businesses, and projects
 > through breaking and in related fields. Panelists explore how they've made a living, the
 > challenges they've faced, and how skills developed through breaking have helped them
-> succeed across different career paths. Panelists: Phil Wizard (Olympic Gold Medalist),
-> additional panelists TBA.
+> succeed across different career paths. Panelists: Phil Wizard, Deadly Mike, MG, Sami.
+> Moderated by Piecez.
 Paid workshops, 1:30–4:30 PM: 1:30–3:00 Workshop 1: Creativity, taught by Ronnie (Full Force,
 SuperCr3w, 7 Commandoz, SuperWockeez, District Arts) → 3:00–4:30 Workshop 2: From Foundation
 to Style, taught by Puzzles (Supernaturalz, Nooma Space Academy). Each workshop is 1.5 hr,
