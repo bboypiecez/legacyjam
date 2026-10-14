@@ -35,7 +35,7 @@ These placeholders are marked with `TODO` comments in `index.html`:
 | `info@legacyjam.com` | travel, footer, volunteer button | confirmed email address |
 | ~~`assets/legacy-jam-logo.svg`~~ | header, hero, footer | ✅ done — official logo (vector, transparent background) |
 | Crew bio + milestones | `#about` section | ✅ done — real bios/milestones from confirmed source copy |
-| Artist Instagram handles | `#artists` section | verify every handle — several are best guesses (djbbad, djtimber, switchb, deadlymike, bgirltiff, bboymadtrack, bboystripes, mgbility, boobjester) |
+| Artist Instagram handles | `#artists` section | verify every handle — several are best guesses (djbbad, djtimber, switchb, deadlymike, bgirltiff, mgbility, boobjester) |
 | Legacy Party venue address | `#schedule` section (Sat, Oct 24 card) | confirmed venue name/address — site currently says only "a separate event at a different venue" |
 
 ### Logos
@@ -67,8 +67,7 @@ a test submission through each form and confirm the activation email lands
 
 ## 📋 Internal production notes (keep off the public site)
 
-- [ ] Check if **Mad Track** is still available Oct 24
-- [x] Look into Exchanges opponents — resolved as 2 Legacy Exchange battles: Riko vs Konatsu, East vs West Coast Youth Battle
+- [x] Exchanges matchups settled — 2 Legacy Exchange battles: **Konatsu vs Riko** and **East vs West Coast Youth Battle** (Mad Track / Stripes matchups dropped, OG Cypher slot cut)
 - [ ] Confirm airport shuttle logistics for Generations Partners (now the only guests offered a pre-booked shuttle) + who monitors the info@legacyjam.com inbox
 - [ ] Confirm Eventbrite ticket tiers match: $20 competitors / $25 audience / $5 kids under 10 / $20 each workshop (or $30 for 2) — Full Festival Pass tier removed from the site
 - [x] Get Lazylegz's (Luca Patuelli) cutout photo from the client to add next to Phil Wizard's in the Panelists row
