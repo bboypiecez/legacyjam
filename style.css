@@ -253,6 +253,10 @@ section[id] { scroll-margin-top: 4.5rem; }
   margin: 1.5rem 0 0.75rem;
 }
 .tagline span { color: var(--maroon-2); margin: 0 0.15em; }
+.hero-mission {
+  max-width: 38rem; margin: 0 auto 1.1rem; color: var(--cream);
+  font-size: 1.02rem; line-height: 1.5;
+}
 .hero-meta { max-width: 34rem; margin: 0 auto 1rem; color: var(--cream-dim); }
 .hero-meta strong { color: var(--cream); font-size: 1.2rem; letter-spacing: 0.04em; }
 .family-note {
@@ -391,20 +395,17 @@ section[id] { scroll-margin-top: 4.5rem; }
 }
 .instructor-duo span { font-size: 0.8rem; font-weight: 700; color: var(--cream); }
 .instructor-duo span .hint { display: block; font-weight: 500; }
-.instructor-duo img.photo-round {
-  height: 7rem; width: 7rem; object-fit: cover; object-position: top;
-  border-radius: 50%; border: 2px solid rgba(228,199,61,0.55);
+.panelist-list {
+  margin: -0.3rem 0 0.75rem; color: var(--cream-dim); font-size: 0.82rem;
+  line-height: 1.5;
 }
+.panelist-list strong { color: var(--cream); font-weight: 700; }
 .workshop-slots {
   list-style: none; margin: 0.9rem auto 0; padding: 0;
   display: grid; gap: 0.45rem; max-width: 24rem; text-align: left;
 }
 .workshop-slots li { font-size: 0.88rem; color: var(--cream-dim); }
 .workshop-slots .time { color: var(--gold-bright); }
-.workshop-slots .slot-desc {
-  display: block; margin: 0.15rem 0 0.2rem; padding-left: 0;
-  font-size: 0.78rem; color: var(--cream-dim); opacity: 0.85;
-}
 .workshop-callout-price {
   color: var(--gold-bright); font-weight: 700; font-size: 0.95rem;
   margin: 0.75rem 0 0;
@@ -500,6 +501,12 @@ section[id] { scroll-margin-top: 4.5rem; }
 }
 .kids-zone p { margin: 0.25rem 0 0; color: var(--cream-dim); font-size: 0.92rem; }
 .kids-zone .hint { display: block; margin-top: 0.3rem; }
+.kids-sessions {
+  list-style: none; margin: 0.5rem 0 0; padding: 0;
+  display: grid; gap: 0.3rem;
+}
+.kids-sessions li { color: var(--cream-dim); font-size: 0.92rem; }
+.kids-sessions .hint { display: inline; margin-top: 0; margin-left: 0.3rem; }
 
 /* ---------- guest artists (compact people grid) ---------- */
 .people {

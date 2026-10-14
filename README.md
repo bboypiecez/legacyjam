@@ -44,6 +44,13 @@ All partner and funder logos are real files in `assets/logos/` — nothing left 
 To add a new partner: drop the logo file in `assets/logos/` and add an `<li>` to the
 matching `logo-row` list in `index.html`.
 
+**Keep images optimized:** every asset in `assets/` is sized and compressed to roughly
+2x its largest on-page display size (e.g. `.logo-row` logos ≈300×104px, `.avatar`
+photos ≈200×200px, `.instructor-duo` cutouts ≈260px tall) and re-saved with
+lossless/high-quality compression — this cut the folder from ~5 MB to ~1.4 MB with no
+visible quality loss. When adding a new image, resize it to roughly 2x its CSS display
+size before committing rather than dropping in a full-resolution export.
+
 ### Volunteer, Media Pass & Generations Partner applications
 
 "Apply to volunteer for Legacy Jam" and "Become a Generations Partner" are
@@ -63,7 +70,7 @@ a test submission through each form and confirm the activation email lands
 - [x] Exchanges matchups settled — 2 Legacy Exchange battles: **Konatsu vs Riko** and **East vs West Coast Youth Battle** (Mad Track / Stripes matchups dropped, OG Cypher slot cut)
 - [ ] Confirm airport shuttle logistics for Generations Partners (now the only guests offered a pre-booked shuttle) + who monitors the info@legacyjam.com inbox
 - [ ] Confirm Eventbrite ticket tiers match: $20 competitors / $25 audience / $5 kids under 10 / $20 each workshop (or $30 for 2) — Full Festival Pass tier removed from the site
-- [ ] Get Lazylegz's (Luca Patuelli) cutout photo from the client to add next to Phil Wizard's in the Panelists row
+- [x] Get Lazylegz's (Luca Patuelli) cutout photo from the client to add next to Phil Wizard's in the Panelists row
 - [ ] **Activate FormSubmit for info@legacyjam.com** — click the one-time confirmation link (see note above) or submissions will keep going nowhere
 - [x] Set up the Generations Partner sign-up form (school registration, promo code, VIP meet & greet) — later replaced with a mailto: link, see note above
 
@@ -76,14 +83,15 @@ a test submission through each form and confirm the activation email lands
 - **Oct 24 (Sat)** — Battle Day, 918 Bathurst St, Toronto (not wheelchair accessible),
   12–7:30 PM; Legacy Party after (DJ Mensa × Cypher Playground confirmed —
   public site copy keeps this to a general "one night to remember" line, doesn't name the DJ/duo)
-- **Oct 25 (Sun)** — Workshops & Panels, Unity Studio, 1560 Yonge St Suite 204, Toronto (wheelchair accessible) — cyphers, 2 panel discussions (Mentorship; Building career pathways for Breaking in Canada — Lazylegz & Phil Wizard confirmed, more panelists TBC), 2 workshops: Workshop 1 "Creativity" taught by Ronnie (Full Force, SuperCr3w, 7 Commandoz, SuperWockeez, District Arts), Workshop 2 "From Foundation to Style" taught by Puzzles (Supernaturalz, Nooma Space Academy)
+- **Oct 25 (Sun)** — Workshops & Panels, Unity Studio, 1560 Yonge St Suite 204, Toronto (wheelchair accessible) — cyphers, 2 panel discussions ("Each One Teach One: Mentors, Parents & the Legacy We Leave" with Lazylegz; "Building Breaking Careers: Skills, Mindsets & Pathways" with Phil Wizard, additional panelists TBA), 2 workshops: Workshop 1 "Creativity" taught by Ronnie (Full Force, SuperCr3w, 7 Commandoz, SuperWockeez, District Arts), Workshop 2 "From Foundation to Style" taught by Puzzles (Supernaturalz, Nooma Space Academy)
 - **Battles** — Generations (2v2 teacher×student, 10-yr age gap), Youth Cypher (Under 19), Pro Cypher (19+); Legacy Exchanges (Canada vs. international) is a showcase, not a competitive battle — lives in "The Festival" copy
 - **Prizes** — Youth + Pro winners: flight & entry to Outbreak Europe 2027
 - **Judges** — Ronnie (Full Force), Logistx (Red Bull BC One All Star), MGability
 - **DJs** — Timber, B Bad; DJ Mensa for the Legacy Party
 - **Funders** — Toronto Arts Council
+- **Food Sponsor** — Nando's
 - **Academic partner** — Sheridan College
-- **Media partners** — Bboy Network, Outbreak Europe / The Legits
+- **Media partners** — Outbreak Europe / The Legits
 - **Program partners** — Unity Charity, Balancing Act, Collective
 - **Generations Partners** — schools/crews that register students for the Generations Battle; confirmed for 2026: Now or Never Crew, 519 School of Hip Hop, The Heart
 - **MEC Crew** — produces Legacy Jam; organizing team is Piecez (Michael Prosserman), Boobjester (Roberto Veruela Jr.), B Bad (Andel James), Switch B (Adrian Bernard), and MEDÊIO (Rei Misiri)

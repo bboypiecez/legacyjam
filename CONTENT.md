@@ -13,6 +13,13 @@ places if you change the message.
 **Dates:** October 23–25, 2026 · Toronto
 **One-liner:** A three-day breaking festival connecting generations — battles, cyphers, workshops, talks and the after party.
 
+**Hero mission line** (`.hero-mission`, below the tagline, above the dates/CTA
+row — the site's top-of-page mission statement):
+> Legacy Jam brings generations of Breaking together through battles,
+> mentorship, cyphers, workshops, talks and community, celebrating people who
+> built the culture while creating opportunities for the next generation to
+> grow, connect and lead.
+
 **Purpose statement (short):**
 > Breaking is rooted in cyphers, community and culture — passed down generation to
 > generation. Legacy Jam keeps that chain alive: celebrating the people who built
@@ -103,30 +110,34 @@ Battle Day ticket.** Below the main ticket list/button, a compact "Sunday:
 Panels & Workshops" callout (`.workshop-callout`) covers both in one
 minimal box: a plain heading (no badge), two background-removed cutout rows
 (`.instructor-duo`, each with a small `.cta-group-label` above it): first
-"Panelists" (labelled "more to be confirmed soon") — Phil Wizard (breaking
-careers panel; Lazylegz's cutout is still pending, so only Phil's photo
-shows for now) — then "Workshop instructors" — Ronnie and Puzzles, standing
-side by side with their name and topic (Ronnie: "Workshop 1: Creativity",
-Puzzles: "Workshop 2: Foundation to Style") — the venue
-(Unity Studio, 1560 Yonge St Suite 204, Toronto, wheelchair accessible), a
-single five-line list of all five slots
-(10–11 AM Doors, cyphers & networking (free), 11 AM–12:15 PM Panel: Mentorship
-(free), 12:15–1:30 PM Panel: Building career pathways for Breaking in Canada
-(free), 1:30–3:00 PM Workshop 1: Creativity (Ronnie), 3:00–4:30 PM
-Workshop 2: Foundation to Style (Puzzles)). Each panel slot carries the
-same one-line description used in the schedule (`.slot-desc` sub-line).
-Above the venue line sit a "Panelists" cutout row (Lazylegz, round-masked
-photo, "Mentorship" · Phil Wizard, cutout, "Career pathways" — with a
-"more to be confirmed soon" hint on the label) and a "Workshop
-instructors" cutout row (Ronnie and Puzzles). Then one price line
-("Panels free, limited seats · Workshops $20 each, or 2 for $30"), a
-clarifying note that panels are free but still ticketed ("Panels are
-free, but you still need a ticket — tap below to register."), and a
-single "Register & Get Tickets" button linking to
-`https://legacyworkshopsandpanel.eventbrite.ca` (the same Eventbrite page
-covers both, so one button replaces the previous two). Deliberately terse
-— this box had grown text-heavy with duplicated copy and two near-identical
-buttons, so it was trimmed to the minimum needed to register or buy.
+"Panelists" (labelled "moderated by Piecez") — Lazylegz ("Each One Teach
+One" panel) and Phil Wizard ("Building Breaking Careers" panel), both with
+background-removed cutout photos and a short caption ("Mentors & Parents" /
+"Breaking Careers") — only these two have cutout photo assets, so a
+one-line `.panelist-list` directly under the photos spells out the full
+confirmed roster for both panels ("Mentors & Parents: Lazylegz, Momo,
+Puzzles & Jooj · Breaking Careers: Phil Wizard, Deadly Mike, MG & Sami") —
+then "Workshop instructors" — Ronnie and Puzzles, standing side by side
+with their name and topic (Ronnie: "Workshop 1: Creativity", Puzzles:
+"Workshop 2: Foundation to Style") — the venue (Unity Studio, 1560 Yonge St
+Suite 204, Toronto, wheelchair accessible), a single five-line list of all
+five slots (10–11 AM Doors, cyphers & networking (free), 11 AM–12:15 PM
+Panel: Each One Teach One: Mentors, Parents & the Legacy We Leave
+(Lazylegz, Momo, Puzzles & Jooj, free), 12:15–1:30 PM Panel: Building
+Breaking Careers: Skills, Mindsets & Pathways (Phil Wizard, Deadly Mike, MG
+& Sami, free), 1:30–3:00 PM Workshop 1: Creativity (Ronnie), 3:00–4:30 PM
+Workshop 2: Foundation to Style (Puzzles)) — full titles and full panelist
+rosters here match the main Schedule section below, but without the longer
+panel descriptions (kept to a one-line list to stay minimal) — one price
+line ("Panels free · Workshops $20 each, or 2 for $30"), a clarifying note
+that panels are free but still ticketed ("Panels are free, but you still
+need a ticket — tap below to register."), and a single "Register & Get
+Tickets" button linking to `https://legacyworkshopsandpanel.eventbrite.ca`
+(the same Eventbrite page covers both, so one button replaces the previous
+two). Deliberately terse — this box had grown text-heavy with duplicated
+copy and two near-identical buttons, so it was trimmed to the minimum
+needed to register or buy; the panelist names were added back in on
+request, but kept to compact one-line lists rather than full bios.
 
 ## 4. Reusable prompts
 
@@ -179,17 +190,17 @@ Collective is the venue and the day's programming partner.
 
 **Sat Oct 24 — Battle Day** · 918 Bathurst St (not wheelchair accessible) · 12–7:30 PM
 12:00 arrive/register/cyphers → 1:00 Pro & Youth cypher prelims (2 circles, 1 hr) → 2:00
-Generations prelims (1 rd, 1.5 hr) → 3:30 Legacy Exchange: Konatsu vs Riko → 4:00
-Generations top 16 (1 rd) → 4:30 Pro & Youth top 8 (2 rds) → 5:00 Generations top 8 (1 rd)
-→ 5:30 Legacy Exchange: East vs West Coast Youth Battle → 5:45 Pro & Youth top 4 (3 rds) →
-6:15 Generations top 4 (2 rds) → 6:30 Pro & Youth finals (5 rds) → 7:00 Generations final
-(2 rds) → 7:30 awards. (The OG Cypher slot was cut; only these two Legacy Exchange battles
-remain.)
+Generations prelims (1 rd, 1.5 hr) → 3:30 Legacy Exchange: Riko vs Konatsu (15 min) → 3:45 Breaking
+Judges Showcase (15 min) → 4:00 Generations top 16 (1 rd)
+→ 4:30 Pro & Youth top 8 (2 rds) → 5:00 Generations top 8 (1 rd) → 5:30 Legacy Exchange: East vs West Coast Youth Battle →
+5:45 Pro & Youth top 4 (2 rds) → 6:15 Generations top 4 (2 rds) → 6:30 Pro & Youth finals
+(3 rds) → 7:00 Generations final (2 rds) → 7:30 awards
 
-**Children's Hip Hop Zone** — 1:00–6:00 PM, basement, 918 Bathurst St, ages 5–11.
-Beginner moves, breaker-name & art name tag making, art stations, a hip hop
-scavenger hunt & a mini kids' cypher. Parents must accompany their children at
-all times.
+**Kids Hip Hop Zone** — 1:00–6:00 PM, basement, 918 Bathurst St, ages 5–11, $5.
+Three scheduled sessions: 1:00 PM Breaking with Bryce (TUFF), 3:00 PM Graffiti
+with Heist (Collective), 5:00 PM Expressive Arts with Creative Genius Academy.
+Ongoing 1–6 PM: name tag graffiti, art stations & a scavenger hunt. Parents
+must accompany their children at all times.
 
 **Legacy Party (19+)** — 9:00 PM, separate event, different venue (TODO: confirm
 address before launch). Called out on the site as its own thing, not part of the
@@ -198,21 +209,41 @@ Battle Day timeline/venue.
 *Flow rationale: youth battles finish early so families can leave before evening; the Pro
 final closes the day at peak energy; the two Legacy Exchange battles are spread out as
 palate-cleansers between tournament rounds. Only 2 Legacy Exchange battles this year (down
-from 3 exhibitions in an earlier draft): Konatsu vs Riko, and an East vs West Coast Youth
-Battle.*
+from 3 exhibitions in an earlier draft): Riko vs Konatsu, and an East vs West Coast Youth
+Battle. A 15-minute Breaking Judges Showcase was added right after the Riko vs Konatsu
+showcase (3:45 PM), giving both back-to-back showcases a matching 15-minute slot before
+Generations top 16 resumes at 4:00.*
 
 **Sun Oct 25 — Workshops & Panels** · Unity Studio, 1560 Yonge St Suite 204 (wheelchair accessible) · 10 AM–4:30 PM
 Free block, 10 AM–1:30 PM: 10:00–11:00 cyphers (community) → 11:00–12:15 Panel Discussion:
-Mentorship ("Lazylegz (Luca Patuelli) and guests on why mentorship keeps breaking alive —
-and what it takes to be a great mentor in this community. More panelists to be confirmed
-soon.") → 12:15–1:30 Panel Discussion: Building career pathways for Breaking in Canada
-("Phil Wizard and guests on the skills it takes to build a career in breaking — and the
-many pathways to make it your living. More panelists to be confirmed soon."). Both panels
-are 1.25 hr each; cyphers open the free block, then run straight into the panels with no
-bridging gap, ending right as the paid workshops start at 1:30. Confirmed so far: Lazylegz
-(Luca Patuelli) features on the Mentorship panel and Phil Wizard on the career-pathways
-panel (cutouts shown in the tickets-section Sunday callout, labelled with their panel);
-more panelists to be confirmed on both.
+"Each One Teach One: Mentors, Parents & the Legacy We Leave" (site `.sched-desc`: "Breakers
+on teaching, mentoring & parenting — passing down skills, confidence & values. With
+Lazylegz, Momo, Puzzles & Jooj. Moderated by Piecez.") → 12:15–1:30 Panel Discussion:
+"Building Breaking Careers: Skills, Mindsets & Pathways" (site `.sched-desc`: "Breakers on
+building careers, businesses & projects through breaking. With Phil Wizard, Deadly Mike, MG
+& Sami. Moderated by Piecez."). Both panels are 1.25 hr each; cyphers open the free block,
+then run straight into the panels with no bridging gap, ending right as the paid workshops
+start at 1:30.
+
+**Panelists (confirmed):**
+- *Each One Teach One: Mentors, Parents & the Legacy We Leave* — Lazylegz, Momo, Puzzles, Jooj
+- *Building Breaking Careers: Skills, Mindsets & Pathways* — Phil Wizard, Deadly Mike, MG, Sami
+- Both panels moderated by Piecez (Michael Prosserman)
+
+*Official full panel descriptions (client-provided, used for Eventbrite/press — the
+on-site `.sched-desc` above is a shortened version to keep the schedule compact):*
+> **Each One Teach One: Mentors, Parents & the Legacy We Leave** — Breakers share personal
+> stories about their experiences as teachers, mentors, and parents. Panelists explore
+> raising their own kids, passing on what they've learned, and helping the next generation
+> build skills, confidence, and strong values through breaking. Panelists: Lazylegz, Momo,
+> Puzzles, Jooj. Moderated by Piecez.
+>
+> **Building Breaking Careers: Skills, Mindsets & Pathways** — Breakers who have built
+> long-standing careers share how they've developed careers, businesses, and projects
+> through breaking and in related fields. Panelists explore how they've made a living, the
+> challenges they've faced, and how skills developed through breaking have helped them
+> succeed across different career paths. Panelists: Phil Wizard, Deadly Mike, MG, Sami.
+> Moderated by Piecez.
 Paid workshops, 1:30–4:30 PM: 1:30–3:00 Workshop 1: Creativity, taught by Ronnie (Full Force,
 SuperCr3w, 7 Commandoz, SuperWockeez, District Arts) → 3:00–4:30 Workshop 2: From Foundation
 to Style, taught by Puzzles (Supernaturalz, Nooma Space Academy). Each workshop is 1.5 hr,
@@ -227,11 +258,13 @@ the day's programming partner.
 ticket. Site copy calls out "(free)" next to each Sunday-morning schedule item and adds a
 note under the list: "Cyphers & panels (10 AM–1:30 PM) are free. Workshops: $20 each, or 2
 for $30." Same pricing repeated in the Tickets & Passes section (both the Workshops row
-hint "or 2 for $30" and the paragraph below the ticket list). Each panel gets a short
-one-line description under its title — the exact same sentence in the tickets-section
-callout (`.slot-desc`) and the schedule (`.sched-desc`) — naming its confirmed featured
-panelist (Lazylegz on Mentorship, Phil Wizard on career pathways) and ending in a "More
-panelists to be confirmed soon." status line that gets updated as panelists confirm.*
+hint "or 2 for $30" and the paragraph below the ticket list). Each panel's full title
+appears both in the Tickets section's compact list and under its title in the main
+Schedule section; the `.sched-desc` sub-line there is a tightened one-sentence summary
+(not the client's full verbatim description — see "Official full panel descriptions"
+above for that) so the schedule stays compact, with the confirmed panelist(s) credited
+in the same sentence; the `.workshop-callout` ticket box's hint text next to each panel
+name also carries the panelist's name.*
 
 ## 6. Crew & volunteering
 
@@ -278,7 +311,7 @@ accuracy, condensed to 3–4 sentences each:**
 exhibitions) are on file; the above is condensed to match the site's existing length.*
 
 **Volunteer CTA:** "Apply to volunteer for Legacy Jam" — lives in its own
-"Volunteer With Us" section right after the Schedule, next to the media
+"Volunteer With Us" section right after Schedule, next to the media
 pass request button. Links to `volunteer.html`, a built-in application form
 that submits via FormSubmit to info@legacyjam.com (name, email, 19+, do you
 drive, car access for the weekend, which volunteer roles — drivers,
