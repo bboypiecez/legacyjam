@@ -108,36 +108,35 @@ bundle tier was removed from the site entirely (was $40 for both workshops
 **Workshops and panels are on a separate Eventbrite page from the main
 Battle Day ticket.** Below the main ticket list/button, a compact "Sunday:
 Panels & Workshops" callout (`.workshop-callout`) covers both in one
-minimal box: a plain heading (no badge), two background-removed cutout rows
-(`.instructor-duo`, each with a small `.cta-group-label` above it): first
-"Panelists" (labelled "moderated by Piecez") — Lazylegz ("Each One Teach
-One" panel) and Phil Wizard ("Building Breaking Careers" panel), both with
-background-removed cutout photos and a short caption ("Mentors & Parents" /
-"Breaking Careers") — only these two have cutout photo assets, so a
-one-line `.panelist-list` directly under the photos spells out the full
-confirmed roster for both panels ("Mentors & Parents: Lazylegz, Momo,
-Puzzles & Jooj · Breaking Careers: Phil Wizard, Deadly Mike, MG & Sami") —
-then "Workshop instructors" — Ronnie and Puzzles, standing side by side
-with their name and topic (Ronnie: "Workshop 1: Creativity", Puzzles:
-"Workshop 2: Foundation to Style") — the venue (Unity Studio, 1560 Yonge St
-Suite 204, Toronto, wheelchair accessible), a single five-line list of all
-five slots (10–11 AM Doors, cyphers & networking (free), 11 AM–12:15 PM
-Panel: Each One Teach One: Mentors, Parents & the Legacy We Leave
-(Lazylegz, Momo, Puzzles & Jooj, free), 12:15–1:30 PM Panel: Building
-Breaking Careers: Skills, Mindsets & Pathways (Phil Wizard, Deadly Mike, MG
-& Sami, free), 1:30–3:00 PM Workshop 1: Creativity (Ronnie), 3:00–4:30 PM
-Workshop 2: Foundation to Style (Puzzles)) — full titles and full panelist
-rosters here match the main Schedule section below, but without the longer
-panel descriptions (kept to a one-line list to stay minimal) — one price
-line ("Panels free · Workshops $20 each, or 2 for $30"), a clarifying note
-that panels are free but still ticketed ("Panels are free, but you still
-need a ticket — tap below to register."), and a single "Register & Get
-Tickets" button linking to `https://legacyworkshopsandpanel.eventbrite.ca`
-(the same Eventbrite page covers both, so one button replaces the previous
-two). Deliberately terse — this box had grown text-heavy with duplicated
-copy and two near-identical buttons, so it was trimmed to the minimum
-needed to register or buy; the panelist names were added back in on
-request, but kept to compact one-line lists rather than full bios.
+minimal box: a plain heading (no badge), a "Panelists" label followed by
+the client-provided "Panel Speakers" flyer graphic (`assets/panel-speakers.jpg`,
+resized to 760px wide, ~75KB) showing all eight panelists' photos grouped
+by panel — Breaking Careers: Phil Wizard, Deadly Mike, Sami Elkout,
+MGbility; Breaking Mentorship: Lazylegz, Jooj, Momo, Puzzles — plus the
+moderator, Bboy Piecez, with full alt text for accessibility — then
+"Workshop instructors" — Ronnie and Puzzles, standing side by side with
+their name and topic (Ronnie: "Workshop 1: Creativity", Puzzles: "Workshop
+2: Foundation to Style"), still using individual background-removed cutout
+photos (`.instructor-duo`) — the venue (Unity Studio, 1560 Yonge St Suite
+204, Toronto, wheelchair accessible), a single five-line list of all five
+slots (10–11 AM Doors, cyphers & networking (free), 11 AM–12:15 PM Panel:
+Each One Teach One: Mentors, Parents & the Legacy We Leave (Lazylegz, Momo,
+Puzzles & Jooj, free), 12:15–1:30 PM Panel: Building Breaking Careers:
+Skills, Mindsets & Pathways (Phil Wizard, Deadly Mike, MG & Sami, free),
+1:30–3:00 PM Workshop 1: Creativity (Ronnie), 3:00–4:30 PM Workshop 2:
+Foundation to Style (Puzzles)) — full titles and full panelist rosters here
+match the main Schedule section below, but without the longer panel
+descriptions (kept to a one-line list to stay minimal) — one price line
+("Panels free · Workshops $20 each, or 2 for $30"), a clarifying note that
+panels are free but still ticketed ("Panels are free, but you still need a
+ticket — tap below to register."), and a single "Register & Get Tickets"
+button linking to `https://legacyworkshopsandpanel.eventbrite.ca` (the same
+Eventbrite page covers both, so one button replaces the previous two).
+Deliberately terse — this box had grown text-heavy with duplicated copy and
+two near-identical buttons, so it was trimmed to the minimum needed to
+register or buy; the panelist names were added back in on request, first as
+compact text lines, then replaced with the client's own flyer graphic once
+provided, since it already shows every panelist's photo and name at a glance.
 
 ## 4. Reusable prompts
 
