@@ -91,6 +91,7 @@ a test submission through each form and confirm the activation email lands
 - **DJs** — Timber, B Bad; DJ Mensa for the Legacy Party
 - **Funders** — Toronto Arts Council
 - **Food Sponsor** — Nando's
+- **Sponsor** — Red Bull
 - **Academic partner** — Sheridan College
 - **Media partners** — Outbreak Europe / The Legits
 - **Program partners** — Unity Charity, Balancing Act, Collective, No Excuses No Limits Movement, WNTR MSSV
