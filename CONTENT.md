@@ -78,6 +78,24 @@ yours on Eventbrite now and claim your battle spot."), and now also as a small
 "Early Bird" badge directly on every "Get Tickets" button site-wide (header,
 hero, tickets section, schedule section, closing CTA).*
 
+**"Buy in advance, we will sell out" warning:** a bold, high-contrast
+`.urgent-notice` callout (maroon-tinted box, gold border, bold cream text
+with gold-bright emphasis on key words) repeats "Buy tickets IN ADVANCE —
+WE WILL SELL OUT. Don't risk disappointment at the door." in two places:
+right under the hero CTA buttons, and again right under the tickets section
+lede, above the ticket list. Deliberately bold and repeated per client
+request, distinct from the existing softer gold "early bird" urgency
+copy — this is a stronger sell-out warning, not just a limited-time nudge.
+
+**Battle registration cutoff (12:45 PM Saturday):** the same `.urgent-notice`
+style calls out that battle registration closes at 12:45 PM sharp on
+Saturday with no late registration, shown in the Battles section lede (above
+the "Register to Battle" button) and again in the main Schedule section's
+Saturday card (above the detailed time list). The Saturday schedule's
+"12:00 PM Arrive · register · open cyphers" line also gets an inline
+`(registration closes 12:45 PM sharp)` hint for anyone skimming just the
+list.
+
 The closing CTA band (`.cta-final`, bottom of the site, "Lock In Your Spot")
 now groups its buttons under two small uppercase `.cta-group-label` dividers
 so it's clear which day each covers: "Sat · Battle Day" over "Register to
