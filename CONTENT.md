@@ -67,16 +67,21 @@ international guests, built to inspire across generations.*
 ## 3. Ticket packages
 
 *Competitors and Audience are door prices (walk-up, day-of); Workshops are
-advance, Eventbrite-only prices. Early bird tickets
-(no "super early bird" tier — just early bird) are on Eventbrite now, in
-limited quantities for a limited time — site copy calls this out with a
-"Limited time" badge in the tickets section lede, again as a bold
-gold-highlighted line under the ticket list ("⏳ Early bird tickets are
-limited and going fast — get yours on Eventbrite now."), once more in the
-closing CTA section ("Early bird tickets are limited and going fast — grab
-yours on Eventbrite now and claim your battle spot."), and now also as a small
-"Early Bird" badge directly on every "Get Tickets" button site-wide (header,
-hero, tickets section, schedule section, closing CTA).*
+advance, Eventbrite-only prices.*
+
+**"Almost sold out, buy in advance" messaging (replaces earlier "early
+bird" framing):** the site no longer uses "early bird" language anywhere —
+per client request it was replaced site-wide with an "almost sold out, get
+tickets in advance to avoid disappointment" message. This shows as: a
+"Almost sold out" badge (`badge-maroon`) in the tickets section lede
+("Tickets are almost sold out, so get yours in advance to avoid
+disappointment at the door."), a bold gold-highlighted line under the
+ticket list ("⏳ Tickets are almost sold out — get yours on Eventbrite now,
+in advance, to avoid disappointment."), the same framing again in the
+closing CTA section lede ("Tickets are almost sold out, so get yours in
+advance to avoid disappointment at the door and claim your battle spot."),
+and a small "Almost Sold Out" badge directly on every "Get Tickets" button
+site-wide (header, hero, tickets section, schedule section, closing CTA).
 
 **"Buy in advance, we will sell out" warning:** a bold, high-contrast
 `.urgent-notice` callout (maroon-tinted box, gold border, bold cream text
@@ -84,8 +89,8 @@ with gold-bright emphasis on key words) repeats "Buy tickets IN ADVANCE —
 WE WILL SELL OUT. Don't risk disappointment at the door." in two places:
 right under the hero CTA buttons, and again right under the tickets section
 lede, above the ticket list. Deliberately bold and repeated per client
-request, distinct from the existing softer gold "early bird" urgency
-copy — this is a stronger sell-out warning, not just a limited-time nudge.
+request — a stronger, more visually distinct sell-out warning layered on
+top of the "almost sold out" badge/prose copy above.
 
 **Battle registration cutoff (12:45 PM Saturday):** the same `.urgent-notice`
 style calls out that battle registration closes at 12:45 PM sharp on

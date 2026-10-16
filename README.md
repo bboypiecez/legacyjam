@@ -94,7 +94,7 @@ a test submission through each form and confirm the activation email lands
 - **DJs** — Timber, B Bad; DJ Mensa for the Legacy Party
 - **Funders** — Toronto Arts Council
 - **Food Sponsor** — Nando's
-- **Sponsor** — Red Bull
+- **Sponsor** — Red Bull, Inclusive Dance Fest
 - **Academic partner** — Sheridan College
 - **Program partners** — Unity Charity, Balancing Act, Collective, No Excuses No Limits Movement, WNTR MSSV, Outbreak Europe / The Legits
 - **Generations Partners** — schools/crews that register students for the Generations Battle; confirmed for 2026: Now or Never Crew, 519 School of Hip Hop, The Heart, Steadfast Dance Center
