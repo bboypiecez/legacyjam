@@ -357,8 +357,9 @@ its own `.logo-row` below the CTA button: Now or Never Crew (links to
 https://www.instagram.com/nowornevercrew/), 519 School of Hip Hop (logo
 recoloured from its original white/light-grey outline art to dark navy, so
 it reads against the white `.logo-row` card background), The Heart (no
-link provided), and Steadfast Dance Center (links to
-https://www.instagram.com/steadfastdancecenter/). A second `.logo-row` right below
+link provided), Steadfast Dance Center (links to
+https://www.instagram.com/steadfastdancecenter/), and The Breaks YYC (no
+link provided). A second `.logo-row` right below
 that stays `hidden` until the older, unconfirmed partners (BRKN Québec, The
 Flava Factory, ABA, The Spot Arts Community, Breaking Canada, Tuff)
 reconfirm for 2026.
