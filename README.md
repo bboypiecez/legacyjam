@@ -36,7 +36,7 @@ These placeholders are marked with `TODO` comments in `index.html`:
 | ~~`assets/legacy-jam-logo.svg`~~ | header, hero, footer | ✅ done — official logo (vector, transparent background) |
 | Crew bio + milestones | `#about` section | ✅ done — real bios/milestones from confirmed source copy |
 | Artist Instagram handles | `#artists` section | verify every handle — several are best guesses (djbbad, djtimber, switchb, deadlymike, bgirltiff, bboymadtrack, bboystripes, mgbility, boobjester) |
-| Legacy Party venue address | `#schedule` section (Sat, Oct 24 card) | confirmed venue name/address — site currently says only "a separate event at a different venue" |
+| ~~Legacy Party venue address~~ | `#schedule` section (Sat, Oct 24 card) | ✅ done — Lovers and Friends Bar, 10 PM, 19+, no cover, DJs B Bad & Switch B |
 
 ### Logos
 
@@ -82,8 +82,8 @@ a test submission through each form and confirm the activation email lands
   Welcome Jam (cyphers, music & good vibes) and Graffiti Workshops (open &
   youth sessions); kids under 14 must be accompanied by a guardian
 - **Oct 24 (Sat)** — Battle Day, 918 Bathurst St, Toronto (not wheelchair accessible),
-  12–7:30 PM; Legacy Party after (DJ Mensa × Cypher Playground confirmed —
-  public site copy keeps this to a general "one night to remember" line, doesn't name the DJ/duo).
+  12–7:30 PM; Legacy Party after at Lovers and Friends Bar, 10 PM, 19+, no cover,
+  DJs B Bad & Switch B (replaces the earlier unconfirmed DJ Mensa × Cypher Playground slot).
   Battle registration closes at 12:45 PM sharp — no late registration; called out
   in bold `.urgent-notice` boxes in the Battles section and Schedule section,
   plus an inline hint on the "12:00 PM Arrive · register" schedule line.
@@ -91,7 +91,7 @@ a test submission through each form and confirm the activation email lands
 - **Battles** — Generations (2v2 teacher×student, 10-yr age gap), Youth Cypher (Under 19), Pro Cypher (19+); Legacy Exchanges (Canada vs. international) is a showcase, not a competitive battle — lives in "The Festival" copy
 - **Prizes** — Youth + Pro winners: flight & entry to Outbreak Europe 2027
 - **Judges** — Ronnie (Full Force), Logistx (Red Bull BC One All Star), MGability
-- **DJs** — Timber, B Bad; DJ Mensa for the Legacy Party
+- **DJs** — Timber, B Bad; B Bad & Switch B for the Legacy Party
 - **Funders** — Toronto Arts Council
 - **Food Sponsor** — Nando's
 - **Sponsor** — Red Bull, Inclusive Dance Fest

@@ -223,9 +223,10 @@ with Heist (Collective), 5:00 PM Expressive Arts with Creative Genius Academy.
 Ongoing 1–6 PM: name tag graffiti, art stations & a scavenger hunt. Parents
 must accompany their children at all times.
 
-**Legacy Party (19+)** — 9:00 PM, separate event, different venue (TODO: confirm
-address before launch). Called out on the site as its own thing, not part of the
-Battle Day timeline/venue.
+**Legacy Party (19+)** — 10:00 PM, Lovers and Friends Bar, no cover, DJs B Bad &
+Switch B. Called out on the site as its own thing, not part of the Battle Day
+timeline/venue (separate event, different venue from the 918 Bathurst St battle
+floor).
 
 *Flow rationale: youth battles finish early so families can leave before evening; the Pro
 final closes the day at peak energy; the two Legacy Exchange battles are spread out as
